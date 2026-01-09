@@ -5,7 +5,7 @@ IN_PATH = "data/raw/reddit_raw.csv"
 OUT_PATH = "data/processed/reddit_clean.csv"
 
 df = pd.read_csv(IN_PATH)
-
+#cleaning
 def clean_text(text: str) -> str:
     text = str(text).lower()
     text = re.sub(r"http\S+|www\.\S+", " ", text)     # remove URLs
