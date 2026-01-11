@@ -1,0 +1,1021 @@
+id,title,label,source,time,url
+46380168,Tell HN: Merry Christmas,story,ask,1766616960,
+46383303,Ask HN: Did any projects succeed with crowdfunding?,ask_hn,ask,1766655149,
+46381406,Ask HN: Good uses cases for Fabrice's microquickjs,ask_hn,ask,1766627977,
+46382032,"Ask HN: At 34, can I aspire to being more than a JavaScript widget engineer?",ask_hn,ask,1766636354,
+46382838,Ask HN: HarmonyOS Open Source Development,ask_hn,ask,1766648064,
+46378431,Looking for Decent Conversation?,story,ask,1766604498,
+46374456,Tell HN: Merry Christmas,story,ask,1766573887,
+46363921,Ask HN: What are the best engineering blogs with real-world depth?,ask_hn,ask,1766483431,
+46378065,"Google Cloud Run cost me $4,676 in 6 weeks with zero traff",story,ask,1766601795,
+46380898,Ask HN: How many HN'ers Celebrate Christmas vs. ?,ask_hn,ask,1766622568,
+46371139,Stronk.app – open-source gym lifts journal,story,ask,1766536242,
+46360146,Ask HN: Why isn't there competition to LinkedIn yet?,ask_hn,ask,1766443853,
+46379843,Ask HN: Why isn't everyone talking about (and using) Cerebras?,ask_hn,ask,1766614468,
+46379434,Could the optimal vibe coder be fundamentally different from the optimal SWE?,story,ask,1766611768,
+46372805,Tell HN: Merry Christmas,story,ask,1766554727,
+46353704,Ask HN: My mother was scammed out of all her savings. What should I do?,ask_hn,ask,1766407219,
+46380845,Ask HN: Why is Hacker News red? Christmas?,ask_hn,ask,1766622120,
+46357258,"Ask HN: Oberon et al., vs. Rust",ask_hn,ask,1766429065,
+46345827,Ask HN: What developer tool do you wish existed in 2026?,ask_hn,ask,1766333577,
+46370178,Ask HN: What did you lose forever because you had no backup?,ask_hn,ask,1766528618,
+46375973,GitHub is returning Gateway Time-outs,story,ask,1766587373,
+46374814,Ask HN: Which is the best sync engine?,ask_hn,ask,1766577424,
+46374754,Cloudflare Stream + Backblaze vs. GCP for Short Form Video?,story,ask,1766576810,
+46365116,Ask HN: Can you patent prompts?,ask_hn,ask,1766495983,
+46378152,Ask HN: Do you have an exit plan for Slack?,ask_hn,ask,1766602426,
+46373948,Ask HN: Anybody here ever write apps for Windows Phone?,ask_hn,ask,1766568029,
+46353359,I built two dozen single-file HTML tools that run offline and need no back end,story,ask,1766403492,
+46378023,SSH Tiny.christmas,story,ask,1766601530,
+46356795,Ask HN: What's the most open/hacker friendly Android phone for 2026?,ask_hn,ask,1766427015,
+46377017,"Ask HN: How do you use the ""waiting time"" while Claude (other LLMs) is working?",ask_hn,ask,1766594297,
+46346648,Ask HN: Resources to get better at outbound sales?,ask_hn,ask,1766339376,
+46379392,Ask HN: Is formal verification of practical use in real world projects?,ask_hn,ask,1766611449,
+46355364,Ask HN: What would you do if you didn't work in tech?,ask_hn,ask,1766420158,
+46366888,Why are we accepting silent data corruption in Vector Search? (x86 vs. ARM),story,ask,1766509025,
+46316562,Ask HN: Who here is not working on web apps/server code?,ask_hn,ask,1766082508,
+46379832,Ask HN: What is your primary operating system?,ask_hn,ask,1766614412,
+46348861,Broadcom Changing Licensing to BSL,story,ask,1766353655,
+46346814,Ask HN: How many email accounts do you have?,ask_hn,ask,1766340698,
+46360600,"Ask HN: Migrating old Substack posts to my own blog, have a question",ask_hn,ask,1766446763,
+46333430,Ask HN: Is GitHub becoming more and more unstable?,ask_hn,ask,1766201754,
+46315658,Ask HN: How do I bridge the gap between PhD and SWE experiences?,ask_hn,ask,1766078423,
+46378554,"Show HN: Minimalist editor that lives in browser, stores everything in the URL",show_hn,show,1766605345,https://github.com/antonmedv/textarea
+46327191,Show HN: Exploring Mathematics with Python,show_hn,show,1766159730,https://coe.psu.ac.th/ad/explore/
+46377597,"Show HN: Vibium – Browser automation for AI and humans, by Selenium's creator",show_hn,show,1766598542,https://github.com/VibiumDev/vibium
+46383414,Show HN: Browser Based IDE for Love2D,show_hn,show,1766656931,https://github.com/Charmunks/loveweb
+46383093,Show HN: ReadHn - Reading list for top HN posts,show_hn,show,1766652559,https://www.readhn.top/
+46377070,"Show HN: A local-first, reversible PII scrubber for AI workflows",show_hn,show,1766594657,https://medium.com/@tj.ruesch/a-local-first-reversible-pii-scrubber-for-ai-workflows-using-onnx-and-regex-e9850a7531fc
+46379054,"Show HN: WebPtoPNG – I built a WebP to PNG tool, everything runs in the browser",show_hn,show,1766609096,https://webptopng.cc/
+46321852,Show HN: LazyPromise = Observable – Signals,show_hn,show,1766113360,https://github.com/lazy-promise/lazy-promise
+46381460,Show HN: Microsoft Agent Viewer,show_hn,show,1766628782,https://acs-viewer.pages.dev/
+46362655,Show HN: CineCLI – Browse and torrent movies directly from your terminal,show_hn,show,1766467070,https://github.com/eyeblech/cinecli
+46371743,Show HN: Turn raw HTML into production-ready images for free,show_hn,show,1766542718,https://html2png.dev
+46381668,Show HN: RetroMol – Turn protein structures into pixel art,show_hn,show,1766631350,https://retromol.vercel.app
+46368379,Show HN: Kapso – WhatsApp for developers,show_hn,show,1766517422,https://kapso.ai/
+46339600,Show HN: Jmail – Google Suite for Epstein files,show_hn,show,1766264405,https://www.jmail.world
+46375067,Show HN: LoongArch Userspace Emulator,show_hn,show,1766580000,https://github.com/libriscv/libloong
+46376006,Show HN: I built an open-source Linux-capable single-board computer with DDR3,show_hn,show,1766587553,https://github.com/cheyao/icepi-sbc
+46380816,Show HN: TrafficVision.live – Watch public cameras with a cyberpunk HUD,show_hn,show,1766621841,https://trafficvision.live/
+46380374,Show HN: JadeStage [I built the platform I wish existed ],show_hn,show,1766618492,https://jadestage.com/
+46345897,Show HN: Books mentioned on Hacker News in 2025,show_hn,show,1766334064,https://hackernews-readings-613604506318.us-west1.run.app
+46336104,Show HN: HN Wrapped 2025 - an LLM reviews your year on HN,show_hn,show,1766237987,https://hn-wrapped.kadoa.com?year=2025
+46334615,"Show HN: CodinIT, local open-source Lovable alternative (Electron desktop app)",show_hn,show,1766220889,https://github.com/codinit-dev/codinit-dev
+46352350,Show HN: Yapi – FOSS terminal API client for power users,show_hn,show,1766393387,https://yapi.run/blog/what-is-yapi
+46379483,Show HN: AI that chose its name and designed its own website (Next.js 14),show_hn,show,1766612067,https://www.guerrillasocialclub.com/
+46376491,Show HN: Master Economics Through Interactive Simulations,show_hn,show,1766590813,https://julienreszka.github.io/economic-simulator/
+46374391,Show HN: I built a tool that creates videos out of React code,show_hn,show,1766573138,https://github.com/outscal/video-generator
+46379154,Show HN: Native iOS version of The Brutalist Report to clean up reading news,show_hn,show,1766609893,https://apps.apple.com/us/app/brutalist-report/id6756546583
+46379145,Show HN: Lamp Carousel – DIY Kinetic Sculpture Powered by Lamp Heat,show_hn,show,1766609813,https://evan.widloski.com/posts/spinners/
+46331364,Show HN: Netrinos – A keep it simple Mesh VPN for small teams,show_hn,show,1766181052,https://netrinos.com
+46378405,Show HN: Internet Wrapped,show_hn,show,1766604341,https://internetwrapped.com
+46377633,Show HN: Mu5ic-sugg3st: Discord music suggestion bot using Spotify API,show_hn,show,1766598762,https://github.com/eyeblech/mu5ic-sugg3st
+46377505,Show HN: Elfpeek – A tiny interactive ELF binary inspector in C,show_hn,show,1766597925,https://github.com/Oblivionsage/elfpeek
+46344616,"Show HN: RenderCV – Open-source CV/resume generator, YAML to PDF",show_hn,show,1766322928,https://github.com/rendercv/rendercv
+46348344,"Show HN: Rust/WASM lighting data toolkit – parses legacy formats, generates SVGs",show_hn,show,1766350614,https://eulumdat.icu
+46376821,Show HN: Regex Man - short 3D regex game (desktop web),show_hn,show,1766593044,https://bcjordan.com/regexman/
+46376812,Show HN: An open-source anonymizer tool to replace PII in PostgreSQL databases,show_hn,show,1766592955,https://github.com/pgEdge/pgedge-anonymizer
+46345745,Show HN: WalletWallet – create Apple passes from anything,show_hn,show,1766333045,https://walletwallet.alen.ro/
+46344381,Show HN: Shittp – Volatile Dotfiles over SSH,show_hn,show,1766320391,https://github.com/FOBshippingpoint/shittp
+46344270,"Show HN: The Official National Train Map Sucked, So I Made My Own",show_hn,show,1766319359,https://www.bdzmap.com/
+46375003,Show HN: The Language Inside C++ [video],show_hn,show,1766579397,
+46374430,Show HN: Semantic Coverage – A tool to visualize RAG blind spots using UMAP,show_hn,show,1766573596,https://github.com/aashirpersonal/semantic-coverage
+46354733,Show HN: DeepSearch – a high-performance SMB directory scanner in Rust,show_hn,show,1766416324,https://github.com/dohuyhoang93/DeepSearch
+46372997,Show HN: Cosmofy – bundle your Python code for Linux/Windows/MacOS,show_hn,show,1766557383,https://github.com/metaist/cosmofy
+46316968,Show HN: TinyPDF – 3kb pdf library (70x smaller than jsPDF),show_hn,show,1766084373,https://github.com/Lulzx/tinypdf
+46372480,Show HN: Open-source Planning Poker web app with no voting limits,show_hn,show,1766550646,https://github.com/rie03p/planning-poker
+46371520,"Show HN: Ragctl – document ingestion CLI for RAG (OCR, chunking, Qdrant)",show_hn,show,1766540155,https://github.com/datallmhub/ragstudio
+46337118,Show HN: Claude Code Plugin to play music when waiting on user input,show_hn,show,1766246804,https://github.com/Sevii/agent-marketplace/blob/main/plugins/elevator-music/README.md
+46344546,Show HN: Mushak – Zero config zero downtime Docker/Compose to server deployment,show_hn,show,1766322149,https://mushak.sh
+46354896,Show HN: Extract diagrams from PDF to SVG,show_hn,show,1766417426,https://github.com/mbrukman/pdf-extract-svg
+46330013,"Show HN: Stickerbox, a kid-safe, AI-powered voice to sticker printer",show_hn,show,1766173488,https://stickerbox.com/
+46370195,"Show HN: Agentica – 200 reqs/day for free, data not used to train our LLMs",show_hn,show,1766528738,https://agentica.genlabs.dev
+46348900,Show HN: I built a 1‑dollar feedback tool as a Sunday side project,show_hn,show,1766353923,https://onedollarfeedback.com/
+46337764,Show HN: Chart Preview – Preview environments for Helm charts on every PR,show_hn,show,1766251396,
+46369033,Show HN: Lume.js – 1.5KB React alternative using zero custom syntax,show_hn,show,1766521078,https://sathvikc.github.io/lume-js/
+46352310,Show HN: Backlog – a public repository of real work problems,show_hn,show,1766392951,https://www.worldsbacklog.com/
+46368748,Show HN: CarryFit – Open-source carry-on compliance checker for 170 airlines,show_hn,show,1766519601,https://carryon.fit/
+46367911,Show HN: A kids book that introduces authorization and permissions concepts,show_hn,show,1766514990,https://authzed.com/resources/dibs-and-the-magic-library
+46366894,"Show HN: ""What Should I Build?"" A directory of what people want",show_hn,show,1766509071,https://www.whatshouldibuild.online/
+46366377,Show HN: Openinary – Self-hosted image processing like Cloudinary,show_hn,show,1766505687,https://github.com/openinary/openinary
+46366336,Show HN: BBC2Podcast – Geo-unblocking proxy for BBC radio as podcasts,show_hn,show,1766505416,https://github.com/hauxir/bbc2podcast
+46366055,Show HN: Textbooks are hard. I made AxisY to visualize complex topics,show_hn,show,1766503542,https://axisy.tech
+46366037,Show HN: I Built a US Grid Telemetry API Using Azure Functions and Python,show_hn,show,1766503456,https://github.com/Norris-Eng/gridwatch-kill-switch
+46365836,"Show HN: Ayder – Nginx for event streaming (50K msg/s, P99 3ms, 40s recovery)",show_hn,show,1766502409,https://github.com/A1darbek/ayder
+46377433,Show HN: Epstein Files and images (4000 .png files),show_hn,show,1766597299,https://epstein-files-browser.vercel.app
+46364522,Show HN: Gen AI Writing Showdown,show_hn,show,1766490317,https://writing-showdown.com/
+46328769,"Show HN: Linggen – A local-first memory layer for your AI (Cursor, Zed, Claude)",show_hn,show,1766166895,https://github.com/linggen/linggen
+46364103,Show HN: Claude Code Skills Playground,show_hn,show,1766485435,https://skillsplayground.com
+46364050,"Show HN: I built a tool to clear my YouTube's ""Watch Later"" Video Graveyard",show_hn,show,1766484887,https://recapio.com/
+46363479,Show HN: Gonc – Serverless P2P dual reverse proxy with NAT traversal,show_hn,show,1766478088,https://www.gonc.cc
+46362959,"Show HN: Luxury Yacht, a Kubernetes management app",show_hn,show,1766471403,https://github.com/luxury-yacht/app
+46362900,Show HN: A vibe-coded database GUI,show_hn,show,1766470514,https://seaquel.app
+46328203,Show HN: I Made Loom for Mobile,show_hn,show,1766164112,https://demoscope.app
+46362578,"Show HN: Starships.ai – Build, deploy and orchestrate an AI agent team",show_hn,show,1766466210,https://starships.ai
+46374243,Show HN: SatoriDB – embedded vector database written in Rust,show_hn,show,1766571379,
+46316991,Show HN: Spice Cayenne – SQL acceleration built on Vortex,show_hn,show,1766084456,https://spice.ai/blog/introducing-spice-cayenne-data-accelerator
+46361081,Show HN: Lumina – a minimal AI reflection app (source code),show_hn,show,1766450617,https://github.com/Encoremuff/lumina-preview
+46360949,Show HN: Drag-and-drop playground to compare the true sizes of countries,show_hn,show,1766449561,https://github.com/ObservedObserver/world-map-reality
+46338219,Show HN: Cerberus – Real-time network monitor with eBPF,show_hn,show,1766254430,https://github.com/zrougamed/cerberus
+46360378,Show HN: Womoo – World Mood Logger,show_hn,show,1766445259,https://womoo.manhhung.app
+46315047,Show HN: Paper2Any – Open tool to generate editable PPTs from research papers,show_hn,show,1766076251,https://github.com/OpenDCAI/DataFlow-Agent
+46357294,Show HN: Hurry – Fast Rust build caching,show_hn,show,1766429220,https://www.hurry.build/
+46356806,Show HN: LLMKit – Compare LLMs side-by-side with real-time streaming,show_hn,show,1766427065,https://www.llmkit.cc/model-comparison/gpt-4-vs-claude-3-5-sonnet
+46356520,Show HN: Our vibe coded openrouter alternative just made over $40k last 30 days,show_hn,show,1766425647,https://trustmrr.com/startup/llm-gateway
+46356492,Show HN: CleanCloud – Read-only cloud hygiene checks for AWS and Azure,show_hn,show,1766425544,
+46356382,Show HN: Explore ArXiv/HN/LessWrong with SQL and Vector Algebra,show_hn,show,1766425010,https://exopriors.com/scry
+46356293,Show HN: Meds — High-performance firewall powered by NFQUEUE and Go,show_hn,show,1766424538,https://github.com/cnaize/meds
+46356167,Show HN: Envision – Interactive explainers for scientific papers,show_hn,show,1766423945,https://envision.page
+46355484,Show HN: TinyDOCX – Word/ODT library (14x smaller than docx),show_hn,show,1766420767,https://github.com/Lulzx/tinydocx
+46355216,Show HN: Sisu – Browse AWS as a Filesystem,show_hn,show,1766419518,https://github.com/semonte/sisu
+46354497,"Show HN: Skyler – AI email organizer, shut down due to OAuth compliance",show_hn,show,1766414713,https://skylerinbox.com/
+46344573,Show HN: Gaming Couch – a local multiplayer party game platform for 8 players,show_hn,show,1766322516,https://gamingcouch.com
+46354175,Show HN: Vibe code from phone template repo,show_hn,show,1766412126,https://github.com/AdmTal/vibe-code-from-phone-starter
+46353821,Show HN: Python Local Sandbox Code Execution (Podman and Uv),show_hn,show,1766408564,https://github.com/portofcontext/pctx-py-sandbox
+46324665,"Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)",show_hn,show,1766144051,https://github.com/moasq/production-saas-starter
+46352780,Show HN: Make your own Danish Julehjerter (Braided hearts),show_hn,show,1766397914,https://juleflet.dk
+46371645,Show HN: T2T – Voice-to-text with MCP support local and cross-platform,show_hn,show,1766541412,https://t2t.now/
+46340877,Show HN: Wingspan Games: Arrow – a multiplayer game built in Elixir / Phoenix,show_hn,show,1766274950,https://wingspan.games/arrow
+46350166,Show HN: Mactop v2.0.0,show_hn,show,1766364296,https://github.com/metaspartan/mactop
+46351178,Show HN: Coderive – Iterating through 1 Quintillion Inside a Loop in just 50ms,show_hn,show,1766376019,https://github.com/DanexCodr/Coderive
+46351139,Show HN: Agent/Claude skill for creating ChatGPT Apps,show_hn,show,1766375564,https://github.com/BayramAnnakov/chatgpt-app-skill
+46350999,Show HN: Open-source Markdown publishing framework for AI agents and developers,show_hn,show,1766374022,https://github.com/waynesutton/markdown-site
+46350805,Show HN: Sentence Starters – Phrases for academic and professional writing,show_hn,show,1766371537,https://sentencestarters.net
+46331348,Show HN: I Built an Image Captioning Tool Using Llama.cpp,show_hn,show,1766180952,https://github.com/paradox460/imagecaption
+46338656,Show HN: Got tired of searching for AI news daily so I built my own AI news page,show_hn,show,1766257705,https://dreyx.com/
+46350252,Show HN: Real-time SF 911 dispatch feed (open source),show_hn,show,1766365158,https://sfpoliceblotter.com
+46350044,Show HN: I automated forensic accounting for divorce cases (3 min vs. 4 weeks),show_hn,show,1766362965,
+46349633,Show HN: Pac-Man with Guns,show_hn,show,1766359044,https://pac-man-with-guns.netlify.app/
+46348462,Show HN: Kanmail – Turn your inbox into a Kanban board,show_hn,show,1766351243,https://kanmail.io
+46347189,Show HN: An Agent Skill for analyzing FEC campaign finance filings,show_hn,show,1766343198,https://github.com/hodgesmr/agent-fecfile
+46346678,"Show HN: ArgueWiki, where arguments live forever",show_hn,show,1766339571,https://www.argueWiki.com/
+46334350,Show HN: ZDS – Zig Data Structures,show_hn,show,1766217048,https://github.com/asheshvidyut/zds
+46345501,Show HN: Lyrics to Rolling WebVTT Converter,show_hn,show,1766330841,https://gitlab.com/9o1d/vtt
+46345476,Show HN: Passkeybot.com – add passkey auth with a few server side HTTP handlers,show_hn,show,1766330652,https://github.com/emadda/passkeybot
+46345352,Show HN: BetterQR – I got tired of $20/mo+ subscriptions for simple QR codes,show_hn,show,1766329770,https://www.betterqr.app
+46345258,Show HN: MomentBridge – A 24KB site to share life moments (pure HTML/CSS/JS),show_hn,show,1766328861,https://vnglstzrs.github.io/momentbridge/
+46321706,Show HN: Daily Set Puzzle – I rebuilt it after setgame.com's SSL cert expired,show_hn,show,1766111766,https://www.anniehu.com/set/
+46344880,Show HN: Chishiko – 8 free AI tools for academic researchers (built on OpenAlex),show_hn,show,1766325478,https://www.chishiko.com/
+46344324,Show HN: Zero Trust API – Image CDR in Rust/WASM (Rebuild Images from Pixels),show_hn,show,1766319871,https://zero-trust-web.vercel.app/
+46344157,Show HN: Lockify – developer-friendly CLI for managing encrypted env variables,show_hn,show,1766317971,https://github.com/ahmed-abdelgawad92/lockify
+46343920,Show HN: I built an LLM agent that finds you online and roasts you,show_hn,show,1766314600,https://santa.veris.ai
+46343698,"Show HN: I built a job board that filters ""Ghost Jobs"" in the Middle East",show_hn,show,1766311651,https://camels.work/
+46315139,Show HN: Toad. A unified terminal UI for coding agents,show_hn,show,1766076552,https://github.com/batrachianai/toad
+46343131,Show HN: Ava – open-source AI voice assistant that runs in the browser,show_hn,show,1766304867,https://ava.muthu.co/
+46343111,Show HN: I built a simple web server with ACME support,show_hn,show,1766304542,https://github.com/cozis/BlogTech
+46368800,Show HN: Full-text search engine for Epstein docs (OCR and OpenSearch),show_hn,show,1766519829,
+46325388,Show HN: We built a small app with my wife to track promises we do,show_hn,show,1766149553,https://lovechecks.app/
+46341850,Show HN: SHA-256 quasi-collision with 184/256 matching bits,show_hn,show,1766286262,https://github.com/POlLLOGAMER/SHA-256-Colision-Finder-NEW.ipynb/blob/main/Base_Version/SHA_256_COLISION_FINDER_RECORD3.ipynb
+46341493,"Show HN: ArkhamMirror – CIA's Analysis of Competing Hypotheses, Runs in Browser",show_hn,show,1766281524,https://mantisfury.github.io/ArkhamMirror/ach/
+46340224,Show HN: Calcu-gator.com – Financial calculators for Canadians,show_hn,show,1766269543,https://calcu-gator.com/
+46340123,"Show HN: SolarSystem, a Solarized-like theme generator using OKHSL and APCA",show_hn,show,1766268803,https://solarsys.dev/
+46339475,Show HN: A simple paper alert service,show_hn,show,1766263302,https://listening4.com/paper
+46339322,Show HN: Сulsans – Thread-safe async-aware queue for Python,show_hn,show,1766262338,https://github.com/x42005e1f/culsans
+46339320,Show HN: Memora – MCP persistent memory server knowledge graph vis,show_hn,show,1766262321,https://github.com/agentic-mcp-tools/memora
+46338717,"Show HN: SceneSynth – Text → scene graph → AI render, recursively",show_hn,show,1766258036,https://github.com/Lywald/SceneSynth
+46338176,Show HN: jax-js – JAX in pure JavaScript,show_hn,show,1766254138,https://github.com/ekzhang/jax-js
+46337179,Show HN: Automatic Riff Track Creator,show_hn,show,1766247169,https://github.com/jareklupinski/auto-riffer
+46336588,Show HN: SQL Quest – The Bank Job,show_hn,show,1766242258,https://www.sqlhabit.com/quests/the-bank-job
+46336223,"Show HN: Concepts Reader, a Backup Plan for My Life",show_hn,show,1766238960,https://modulovalue.com/blog/concepts-reader-a-backup-plan-for-my-life/
+46336204,Show HN: I built an interactive 3D brain viewer (DK Atlas),show_hn,show,1766238769,https://neuroglance.labs.memebu.com
+46335588,Show HN: Dbzero – Code as if you have infinite RAM (Python persistence engine),show_hn,show,1766232459,https://github.com/dbzero-software/dbzero
+46334262,Show HN: I made an AI agent to interact with resume and make changes as you ask,show_hn,show,1766215768,https://resumeup.ai
+46334191,Show HN: HiFidelity – A native macOS offline audiophile music player,show_hn,show,1766214676,https://rvarunrathod.github.io/HiFidelity/
+46356360,Show HN: Haystack Slop Detector – a lightweight barrier against unreviewed PRs,show_hn,show,1766424900,https://haystackeditor.com/slop-detector
+46383786,What Is Santa's Address at the North Pole?,story,new,1766662608,https://parade.com/1123345/stephanieosmanski/santa-claus-address/
+46383784,"Make screenshots stand out – add backgrounds, frames, and annotate",story,new,1766662598,https://www.screenshoteditor.live/
+46383758,The shadow Russia casts over Europe has forced it to face the truth,story,new,1766662067,https://www.cnn.com/2025/12/25/europe/russia-europe-analysis-intl-cmd
+46383753,RoomStaging,story,new,1766662020,https://roomstaging.net
+46383748,Officials discover a million more documents potentially related to Epstein case,story,new,1766661937,https://www.bbc.com/news/articles/czdgz84dn35o
+46383744,Show HN: Smig – Automatic SurrealDB Migrations,show_hn,new,1766661869,https://smig.build/
+46383722,Goodbye Motorola,story,new,1766661598,https://old.reddit.com/r/motorola/comments/1puoqh6/goodbye_motorola/
+46383718,Show HN: Localhorst – Websites Hosted in the Browser,show_hn,new,1766661501,https://localhorst.43z.one/
+46383702,Ask HN: Why can't I find NDK for Linux ARM64?,ask_hn,new,1766661142,
+46383675,Mattermost restricted access to old messages after 10000 limit is reached,story,new,1766660639,https://github.com/mattermost/mattermost/issues/34271
+46383674,"Package managers keep using Git as a database, it never works out",story,new,1766660632,https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html
+46383669,I managed to get that lost UNIX v4 tape running on my Android tablet,story,new,1766660555,https://old.reddit.com/r/termux/comments/1pv7si4/i_managed_to_get_that_lost_unix_v4_tape_running/
+46383666,GitHub – rcarmo/feed-summarizer: The feed summarizer that powers feeds.carmo.io,story,new,1766660535,https://github.com/rcarmo/feed-summarizer
+46383658,Show HN: VideoReview – Collaborative video review for games and animation,show_hn,new,1766660350,https://github.com/KirisameMarisa/video-review
+46383651,"Ask HN: Payload in Amazon ""Shipped"" Emails",ask_hn,new,1766660288,
+46383650,"Show HN: Mandate – treating AI agents like economic actors, not scripts",show_hn,new,1766660230,https://github.com/kashaf12/mandate
+46383633,"I don't trust NPM install, so I built dev",story,new,1766659964,https://github.com/f0i/dev
+46383614,Agent Skills,story,new,1766659693,https://github.com/skillmatic-ai/awesome-agent-skills
+46383612,Waymo Is Working on a Gemini AI Assistant. Here's the System Prompt,story,new,1766659673,https://wongmjane.com/blog/waymo-gemini
+46383608,Ask HN: Share your favorite Christmas gimmicks,ask_hn,new,1766659604,
+46383604,Exposing Honey's Evil Business Model [video],story,new,1766659586,https://www.youtube.com/watch?v=wwB3FmbcC88
+46383603,"Show HN: One AI API for word-accurate transcription, translation, and export",show_hn,new,1766659576,https://www.transcripthq.io/
+46383601,"Show HN: Quintel, a Rule-Discovery Game",show_hn,new,1766659560,https://eternaldawn.itch.io/quintel
+46383600,How to Help Santa Claus Concurrently,story,new,1766659490,https://wyounas.github.io/puzzles/concurrency/2025/12/23/how-to-help-santa-claus-concurrently/
+46383593,Line scan camera image processing,story,new,1766659366,https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/
+46383587,How we solved for Cloudflare and Azure outages,story,new,1766659326,https://thesidedish.flipdish.com/flipdish-shipping-forecast-multiple-clouds-with-a-chance-of-severe-outages-7ab2d507841a
+46383568,Ingestr: CLI tool to copy data between any databases with a single command,story,new,1766659137,https://github.com/bruin-data/ingestr
+46383552,We invited a man into our home at Christmas and he stayed with us for 45 years,story,new,1766658934,https://www.bbc.co.uk/news/articles/cdxwllqz1l0o
+46383550,Agent-Skills-for-Context-Engineering,story,new,1766658878,https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering
+46383515,Good Morning to Those at Work,story,new,1766658410,
+46383510,Extreme Ironing,story,new,1766658354,https://en.wikipedia.org/wiki/Extreme_ironing
+46383491,Reflections on building internal tools after AI changed the workflow,story,new,1766658131,
+46383476,Indian rocket launches record-breaking BlueBird 6 smartphone satellite to orbit,story,new,1766657912,https://www.space.com/space-exploration/launches-spacecraft/indian-rocket-launch-bluebird-6-satellite-ast-spacemobile
+46383464,Download Python Today,story,new,1766657718,https://files.catbox.moe/taze7f.jpg
+46383458,Contributing to Debezium: Fixing Logical Replication at Scale,story,new,1766657633,https://engineering.zalando.com/posts/2025/12/contributing-to-debezium.html
+46383452,Best practices for long-run LED strip installs (20–50M) to avoid flicker?,story,new,1766657496,
+46383448,Gluetun v3.41.0 Release – The Ranting Section,story,new,1766657435,https://www.youtube.com/watch?v=SSkGpys40ck
+46383443,Prompts.chat: the social platform for AI prompts,story,new,1766657241,https://prompts.chat
+46383440,Cursor UI is built with SolidJS,story,new,1766657211,https://old.reddit.com/r/solidjs/comments/1puoifc/cursor_ui_is_built_with_solidjs/
+46383435,Show HN: FailCore – Execution-Time Safety Runtime for AI Agents,show_hn,new,1766657132,https://github.com/Zi-Ling/failcore
+46383421,Show HN: Awkward 90s Christmas Studio Portrait,show_hn,new,1766657014,https://picxstudio.com/templates/298-awkward-90s-christmas-studio-portrait
+46383415,"Show HN: Measuring the ""Mom-induced"" insulin resistance this Christmas",show_hn,new,1766656932,https://www.longevity-tools.com/glucose-metabolism-interpreter
+46383407,Christmas and Kim Jong-suk's birthday,story,new,1766656862,https://www.cartographerstale.com/p/christmas-and-kim-jong-suks-birthday
+46383345,"Star Wars Vader vs. Kenobi, Reimagined",story,new,1766655722,https://www.youtube.com/watch?v=to2SMng4u1k
+46383344,Why 'The Global Market' Is an Irresponsible Phrase,story,new,1766655687,https://oswarld.com/eng/insight/251117_Why-the-global-market-Is-an-Irresponsible-Phrase
+46383342,Show HN: Pepterm – view protein structures in your terminal (Rust),show_hn,new,1766655671,https://crates.io/crates/pepterm
+46383339,Ruby Turns 30 Celebrating the Anniversary with the Release of Ruby 4.0,story,new,1766655612,https://blog.jetbrains.com/ruby/2025/12/ruby-turns-30-a-celebration-of-code-community-and-creativity/
+46383326,"Ask HN: Sitemap Valid but ""Couldn't Fetch"" in GSC",ask_hn,new,1766655413,
+46383304,In Search of Scrooge's Door Knocker,story,new,1766655152,https://londonist.com/london/christmas-in-london/where-is-scrooges-door-knocker
+46383294,The Measure of All Things – Richard Chwedyk (2001),story,new,1766655084,https://archive.org/details/Fantasy_Science_Fiction_v100n01_2001-01_N591_DaisyChainsaw
+46383267,Anthropic's Christmas Gift to Subscribers,story,new,1766654752,https://support.claude.com/en/articles/13163666-holiday-2025-usage-promotion
+46383266,Claude Code changed my life,story,new,1766654740,https://spader.zone/xmas/
+46383233,Quantum Error Correction Goes FOOM,story,new,1766654295,https://algassert.com/post/2503
+46383231,CYC: A large-scale investment in knowledge infrastructure (1995) [pdf],story,new,1766654290,https://dl.acm.org/doi/pdf/10.1145/219717.219745
+46383220,Show HN: Free CLI for cryptographic receipts using Ethereum signatures,show_hn,new,1766654080,https://github.com/805-ai/receipt-cli
+46383212,The CRA's Impetus to Openness,story,new,1766654044,https://meshedinsights.com/2025/11/27/cra-openly-shared/
+46383202,Groq and Nvidia Enter Non-Exclusive Inference Technology Licensing Agreement,story,new,1766653963,https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale
+46383198,"ThePrimeagen: Who He Is, Why Developers Love Him, and What You Can Learn",story,new,1766653951,https://devnews-nu.vercel.app/posts/5
+46383139,Self-referencing Page Tables for the x86-Architecture,story,new,1766653103,https://0l.de/blog/2015/01/bachelor-thesis-abstract/
+46383138,Eight.com Is Owned by Amazon,story,new,1766653102,https://eight.com
+46383120,Twibird – Twitter bookmarks search and likes organizer,story,new,1766652898,https://twibird.com
+46383103,Peter Gutmann – Why Quantum Cryptanalysis Is Bollocks [video],story,new,1766652722,https://www.youtube.com/watch?v=xa4Ok7WNFHY
+46383094,Hardcore: Paul Schrader in the 70s (2010),story,new,1766652591,https://openspace.sfmoma.org/2010/08/hardcore-paul-schrader-in-the-70s-1/
+46383076,Ask HN: Would you trust software to automatically move and optimize your money?,ask_hn,new,1766652424,
+46383072,The last product to get cancelled,story,new,1766652297,https://www.ablg.io/blog/last-product-to-get-cancelled#conclusion
+46383070,Gleam v1.14 – the happy holidays release 2025,story,new,1766652286,https://gleam.run/news/the-happy-holidays-2025-release/
+46383068,How Unique are you? Australia Edition,story,new,1766652283,https://mitchelllisle.github.io/too-unique-to-hide-aus/
+46383060,Higher-order interactions shape collective human behaviour,story,new,1766652132,https://www.nature.com/articles/s41562-025-02373-5
+46383056,What the FTC got wrong in the Google antitrust investigation,story,new,1766652077,https://danluu.com/ftc-google-antitrust/
+46383046,Show HN: I built a forensic accounting engine for divorce,show_hn,new,1766651968,
+46383035,"Going Through Snowden Documents, Part 3",story,new,1766651869,https://libroot.org/posts/going-through-snowden-documents-part-3/
+46383032,The Battle to Stop Clever People Betting,story,new,1766651859,https://twitter.com/nishikoripicks/status/2003793503495594126
+46383018,Blue Marble: Next Generation Base Map with Topography and Bathymetry,story,new,1766651574,https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-topography-bathymetry/
+46383015,Chrome plugin: Select text on any webpage and instantly search in AI providers,story,new,1766651546,https://chromewebstore.google.com/detail/select-to-search/cphfmdllmpidlnockhipnmlboainodcb
+46382992,Spotify Class Action Lawsuit Alleging Discovery Mode Is a 'Pay-for-Play Scheme',story,new,1766651124,https://www.forbes.com/sites/conormurray/2025/11/05/spotify-hit-with-class-action-lawsuit-alleging-discovery-mode-is-a-pay-for-play-scheme
+46382988,Ask HN: What's the simplest mechanism that prevents Q&A platforms from decaying?,ask_hn,new,1766651039,
+46382986,Flightradar Santa Flight,story,new,1766651030,https://www.flightradar24.com/R3DN053/3d9fb50a
+46382984,"We built an AI to analyze 100 biomarkers, then realized it has no intuition",story,new,1766650999,
+46382983,A Curl 2025 Review,story,new,1766650978,https://daniel.haxx.se/blog/2025/12/23/a-curl-2025-review/
+46382960,Show HN: Personalised Video Message from Santa,show_hn,new,1766650468,https://www.santagram.art/
+46382944,Need Advice: Stripe Webhooks Bleeding Between Two SaaS Products,story,new,1766650020,
+46382934,"Inspect provenance and quarantine info in Providable, a Christmas present",story,new,1766649755,https://eclecticlight.co/2025/12/25/inspect-provenance-and-quarantine-info-in-providable-a-christmas-present/
+46382905,(My) Second Year of the Linux Desktop (For Gaming),story,new,1766649166,https://blog.matthewbrunelle.com/my-second-year-of-the-linux-desktop-for-gaming/
+46382904,"No pain, no game: how South Korea turned itself into a gaming powerhouse",story,new,1766649147,https://www.theguardian.com/world/2025/dec/25/south-korea-video-game-powerhouse
+46382886,OpenTinker,story,new,1766648850,https://open-tinker.github.io/opentinker-page/
+46382869,"Psychological Wellbeing Predicts Later Self Control, but Not Vice Versa",story,new,1766648504,https://journals.sagepub.com/doi/10.1177/19485506251385007
+46382850,The context window ate your instructions,story,new,1766648281,https://laulau.land/context-window-ate-your-instructions/
+46382807,The Stars of Bethlehem,story,new,1766647535,https://songofurania.com/episode/025
+46382796,Geo Is a Cargo Cult Hype Built on One 2023 Paper,story,new,1766647380,https://wskpf.com/takes/geo-is-premature-optimization
+46382784,Nobody knows how large software products work,story,new,1766647257,https://www.seangoedecke.com/nobody-knows-how-software-products-work/
+46382776,Show HN: Echoslate– Fast native todo/Kanban tracker for programmers (.NET 8 WPF),show_hn,new,1766647171,https://github.com/pjmavcom/echoslate/releases/tag/4.0.4.0
+46382765,They made me an offer I couldn't refuse (1997),story,new,1766646988,https://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/
+46382764,Read and review Markdown files in a dead simple viewer,story,new,1766646960,https://github.com/peaske7/readit
+46382761,GitAds,story,new,1766646936,https://gitads.dev/
+46382760,Against SemVer,story,new,1766646924,https://www.natemeyvis.com/against-semver/
+46382721,Microsoft wants to replace its C and C++ codebase,story,new,1766646496,https://www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/
+46382720,Paleotronic's 12 Years of Retro-Christmas Returns Again,story,new,1766646466,https://paleotronic.com/2023/12/24/paleotronics-12-years-of-retro-christmas-returns-again-2/
+46382714,Show HN: ZenStack – Modern Data Layer for TypeScript Apps,show_hn,new,1766646434,https://zenstack.dev/
+46382712,Zsh scripts to copy or paste image in Ubuntu / WSL,story,new,1766646410,
+46382701,A comprehensive list of 2025 tech layoffs,story,new,1766646272,https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/
+46382684,My New Substack,story,new,1766645901,
+46382682,Google joins attacks on Britain over free speech online,story,new,1766645854,https://www.telegraph.co.uk/business/2025/12/21/google-joins-attacks-on-britain-over-free-speech-online/
+46382672,DARPA Backs Effort to Convert C to Rust,story,new,1766645725,https://www.cs.wisc.edu/2025/07/15/translating-legacy-code-for-a-safer-future/
+46382656,"Trump allowed to impose $100K fee on H-1B visas, judge rules",story,new,1766645483,https://www.usatoday.com/story/news/politics/2025/12/24/judge-trump-authority-fee-h1b-visas/87905814007/
+46382631,How Email Works,story,new,1766645083,https://sushantdhiman.substack.com/p/how-email-actually-works-ep-1-behind
+46382585,Recaf – A Java Bytecode Editor,story,new,1766644300,https://recaf.coley.software/home.html
+46382563,"Show HN: API-first URL shortener (bit.ly $348, Rebrandly $384)",show_hn,new,1766643808,https://jo4.io/a/hackernews
+46382554,Show HN: NpgsqlRest Automatic PostgreSQL Web Server,show_hn,new,1766643660,https://npgsqlrest.github.io/
+46382537,Data Structures in Practice,story,new,1766643334,https://github.com/djiangtw/data-structures-in-practice-public
+46382535,Minish – A Property-Based Testing Framework for Zig,story,new,1766643322,https://github.com/CogitatorTech/minish
+46382514,Why Your AI Agents Are Hallucinating (and How to Stop It),story,new,1766643056,https://noveum.ai/en/blog/why-your-ai-agents-are-hallucinating-and-how-to-stop-it
+46382499,Fucking Approachable Swift Concurrency,story,new,1766642849,https://fuckingapproachableswiftconcurrency.com/en/
+46382478,The 9th Circuit Upholds Professor's Right to Mock 'Land Acknowledgments',story,new,1766642525,https://reason.com/2025/12/22/the-9th-circuit-upholds-a-university-of-washington-professors-right-to-mock-land-acknowledgments/
+46382466,CEO blasts companies with billions in funding but zero revenue,story,new,1766642340,https://fortune.com/2025/12/24/databricks-ceo-ali-ghodsi-bubble-insane-zero-revenue-ai-circular/
+46382459,"Tyler Cowen, the man who wants to know everything",story,new,1766642254,https://www.economist.com/1843/2025/02/28/tyler-cowen-the-man-who-wants-to-know-everything
+46382452,How to copy the current Christmas CSS of HN?,story,new,1766642178,https://news.ycombinator.com/
+46382430,More App Store Ad Spots,story,new,1766642008,https://mjtsai.com/blog/2025/12/24/more-app-store-ad-spots/
+46382415,Yarbo's Pop-Up Signals the Future of Smart Snow Tech,story,new,1766641784,
+46382395,Mercury – Multimodal Drone,story,new,1766641525,https://mercuriustech.com/mercury/
+46382380,Show HN: Rhettilator – An exact-fraction calculator in base 360,show_hn,new,1766641375,https://the-rhettilator-9352543e.base44.app/
+46382369,"WhatIFF?, a modern Amiga Guide magazine for creative Amiga users",story,new,1766641217,https://www.whatiff.info/
+46382365,Command Line Interface Guidelines,story,new,1766641163,https://clig.dev/
+46382363,Show HN: Got tired of searching for AI news daily so I built my own AI news page,show_hn,new,1766641134,https://dreyx.com/
+46382361,Creating General User Models from Computer Use,story,new,1766641111,https://arxiv.org/abs/2505.10831
+46382357,Show HN: Web playground for Qwen-Image-Edit-2511,show_hn,new,1766641053,https://z-image.app/ja/models/qwen-image-edit-2511
+46382354,The Frontend Auth Middleware: Cross-Origin Iframes Without Third-Party Cookies,story,new,1766640985,https://seg6.space/posts/the-frontend-auth-middleware/
+46382351,Why I'm Treating Health as Infrastructure,story,new,1766640930,https://healthasinfrastructure.substack.com/p/why-im-treating-health-as-infrastructure
+46382302,Show HN: Claude Code in Cursor,show_hn,new,1766640344,https://github.com/mergd/ccproxy
+46382275,Is the Dictionary Done For?,story,new,1766639990,https://www.newyorker.com/magazine/2025/12/29/unabridged-the-thrill-of-and-threat-to-the-modern-dictionary-stefan-fatsis-book-review
+46382252,Tinyfront,story,new,1766639722,http://tinyfront.mooo.com/
+46382225,Show HN: Secret MCP: Let AI write your .env files without seeing your secrets,show_hn,new,1766639383,https://github.com/AKarenin/Secret-mcp
+46382207,Husqvarna 350 iB Leaf Blower Running VESC with 2070 Wh Battery [video],story,new,1766639128,https://www.youtube.com/watch?v=Q8c5QOmafpw
+46382202,Words Matter: Alternatives for Charged Terminology in the Computing Profession,story,new,1766639071,https://www.acm.org/diversity-inclusion/words-matter
+46382195,What's New in Ruby 4.0,story,new,1766639007,https://nithinbekal.com/posts/ruby-4-0/
+46382183,Python-Tiny-HTTP-Server,story,new,1766638870,https://github.com/johann-petrak/python-tiny-http-server
+46382153,"Show HN: Open-source""BeMyEyes""alternative(Java/Go/Python)built as a learning pjt",show_hn,new,1766638430,https://github.com/XXieYiqiang/SoakUpTheSun
+46382143,Four bright spots in climate news in 2025,story,new,1766638208,https://www.technologyreview.com/2025/12/24/1130191/good-climate-news-2025/
+46382134,Free Software Foundation receives historic private donations,story,new,1766638058,https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations
+46382127,Show HN: Markdown Editor that you can plug as middleware,show_hn,new,1766637957,https://github.com/cookiengineer/golocron
+46382126,The Positive Climate News You May Have Missed This Year,story,new,1766637947,https://www.bloomberg.com/opinion/articles/2025-12-23/the-positive-climate-news-you-may-have-missed-this-year
+46382122,Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI,story,new,1766637887,https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9
+46382102,What Is ChatGPT Doing?,story,new,1766637519,https://www.vibediary.dev/essays/chatGPT
+46382075,Microarchitecture: What Happens Beneath [video],story,new,1766637074,https://www.youtube.com/watch?v=BVVNtG5dgks
+46382037,How North Korea Hid an IT Workforce Inside US Companies [video],story,new,1766636451,https://www.youtube.com/watch?v=-gjnrMg9iSo
+46382033,AI Withholds Life-or-Death Information Unless You Know the Magic Words,story,new,1766636363,https://substack.com/home/post/p-182524207
+46382030,Is Time Ripe to Throw Your Engineers Under the Trolley,story,new,1766636318,https://medium.com/@farhanhubble/is-time-ripe-to-throw-your-engineers-under-the-trolley-f8d2306d24ae
+46382018,Ask HN: Does open-sourcing in B2C usually cripple monetization prospects?,ask_hn,new,1766636128,
+46382011,Ruby 4.0.0,story,new,1766635980,https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/
+46382008,Newtype Index Pattern in Zig,story,new,1766635942,https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html
+46382007,The Future of Veritasium,story,new,1766635925,https://www.youtube.com/watch?v=piHGnG4LsmQ
+46381995,Children's Holiday Letters to Satan,story,new,1766635779,https://www.newyorker.com/humor/daily-shouts/childrens-holiday-letters-satan
+46381978,US Software Engineer Compensation Trends: Continued Growth (2024–2025),story,new,1766635474,https://devnavigator.com/2025/12/24/us-software-engineer-compensation/
+46381946,Querying 160 GB of Parquet Files with DuckDB in 15 Minutes,story,new,1766635095,https://datamethods.substack.com/p/querying-160-gb-of-parquet-files
+46381941,The LPU (Language Processing Unit),story,new,1766635045,https://groq.com/lpu-architecture
+46381906,The battle to stop clever people betting,story,new,1766634627,https://www.economist.com/christmas-specials/2025/12/18/the-battle-to-stop-clever-people-betting
+46381904,The 'Exciting Business Opportunity' That Ruined Our Lives,story,new,1766634619,https://www.theatlantic.com/ideas/archive/2025/01/amway-america/681479/
+46381902,Trending Terminals,story,new,1766634578,https://itrending.top/terminal/
+46381901,Winnie-the-Pooh brings 100 years of fame to forest,story,new,1766634573,https://www.bbc.com/news/articles/c4g9dzj1xj3o
+46381896,The subtle Red of HN and so minimalist and beautiful,story,new,1766634500,
+46381894,Oxaide: Sovereign AI knowledge engine for private infrastructure,story,new,1766634466,https://oxaide.com
+46381882,Load and store forwarding in the Toy Optimizer,story,new,1766634232,https://bernsteinbear.com/blog/toy-load-store/
+46381857,The Future of Fixing Technology (By Denver Gingerich at Fossy 2025) [video],story,new,1766633961,https://www.youtube.com/watch?v=YiKAlrGM06c
+46381855,The universe may be lopsided,story,new,1766633927,https://theconversation.com/the-universe-may-be-lopsided-new-research-265256
+46381839,Python Applied Mathematics Labs,story,new,1766633632,https://labs.acme.byu.edu/Pages/intro.html
+46381835,No Longer Evil – new life for dead/outdated Nest Generation 1 and 2 thermostats,story,new,1766633562,https://nolongerevil.com/
+46381827,"Login Issues Impacting Fortnite, Rocket League, Fall Guys",story,new,1766633478,https://status.epicgames.com
+46381813,Microsoft denies rewriting Windows 11 in Rust using AI,story,new,1766633218,https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/
+46381808,We Saved Reboot [video],story,new,1766633178,https://www.youtube.com/watch?v=L00jx-GH2w8
+46381804,Understanding AI Benchmarks,story,new,1766633119,https://blog.sshh.io/p/understanding-ai-benchmarks
+46381799,.NET R&D Digest (December 2025),story,new,1766633053,https://olegkarasik.wordpress.com/2025/12/24/net-rd-digest-december-2025/
+46381766,Instacart ends AI pricing tests that increased costs for some shoppers,story,new,1766632597,https://www.cnbc.com/2025/12/22/instacart-ai-pricing-tests-increased-costs.html
+46381716,Supporting Hoperf CMT2300A on Linux,story,new,1766632060,https://rfcorner.in/posts/supporting-cmt2300a-on-linux/
+46381681,The most damaging taboo about sexual violence,story,new,1766631564,https://write.as/3k6gb4heu8whz
+46381661,"Two ancient humans, including famed 'Iceman,' had cancer-causing virus",story,new,1766631268,https://www.science.org/content/article/two-ancient-humans-including-famed-iceman-had-cancer-causing-virus
+46381645,Facebook deploys the Steam Deck's Linux scheduler across its data centers,story,new,1766631127,https://www.tomshardware.com/software/linux/facebook-deploys-the-steam-decks-linux-scheduler-across-its-data-centers-valves-low-latency-scheduler-perfect-for-managing-metas-workloads-at-massive-data-centers
+46381637,Learn LaTeX in 30 Minutes,story,new,1766631030,https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+46381620,Project Dropstone: A Neuro-Symbolic Runtime for Long-Horizon Engineering [pdf],story,new,1766630868,https://archive.blankline.org/api/media/file/d3_engine_public_release%20(1)-1.pdf
+46381609,Show HN: Collaborative Cloud-Based IDE for Lean 4,show_hn,new,1766630777,https://prove.reaslab.io/weblog/show-hn
+46381604,The Dangerous Feature in Tesla's Doors [video],story,new,1766630730,https://www.youtube.com/watch?v=-vUnckrH5jE
+46381572,Show HN: A living system of software that grows over time,show_hn,new,1766630197,https://XCTBL.com
+46381570,Headed to Auction: 1971 Chevy Dream Truck Packs a 10.4L V8 Under the Hood,story,new,1766630159,https://www.thedrive.com/news/1971-chevy-dream-truck-packs-a-10-4l-v8-under-the-hood-and-its-headed-to-auction
+46381564,Secure Messaging and AI Don't Mix,story,new,1766630052,https://www.aclu.org/news/privacy-technology/secure-messaging-and-ai-dont-mix
+46381558,Show HN: Slurmq – GPU quota enforcement for Slurm,show_hn,new,1766630014,https://dedalus-labs.github.io/slurmq/
+46381556,Will Japan's 'Fire Horse' curse strike again in 2026?,story,new,1766629978,https://www.japantimes.co.jp/life/2025/12/20/lifestyle/fire-horse-baby-superstition-2026ha-fire-horse-baby-superstition/
+46381542,Rote Hilfe Berlin on repression by Trump and two German banks,story,new,1766629804,https://digit.site36.net/2025/12/23/times-are-getting-tougher-rote-hilfe-berlin-on-account-terminations-by-two-german-banks/
+46381528,Pmhnp Hiring – Job board for psychiatric nurse practitioners,story,new,1766629609,https://pmhnphiring.com
+46381519,The Boss Who Gave His Employees a $240M Gift,story,new,1766629534,https://www.wsj.com/business/fibrebond-eaton-bonus-walker-30844d62
+46381512,Samsung Developing 'Wide Fold' with iPhone Fold-Like Design,story,new,1766629403,https://www.macrumors.com/2025/12/23/samsung-wide-fold-device/
+46381508,Apple CEO Tim Cook Buys $3M of Nike Shares,story,new,1766629381,https://www.macrumors.com/2025/12/24/tim-cook-buys-nike-shares/
+46381478,The VAT refund is one of the greatest legal scams ever perpetrated,story,new,1766628977,https://community.ricksteves.com/travel-forum/packing/vat-refunds-28591d59-d73c-4635-b13e-333ad9706433
+46381454,Show HN: AIs debating the same question – they disagree on everything,show_hn,new,1766628703,https://www.usecouncil.app/
+46381440,FreshRSS and BPC – Fetch full content from paywalled sites in FreshRSS with BPC,story,new,1766628497,https://github.com/yuyangchee98/freshrss-bpc
+46381397,A Big Fight over a Small Language in the Swiss Alps: a Plan to Tidy Up Romansh,story,new,1766627832,https://www.newyorker.com/magazine/2025/12/08/a-very-big-fight-over-a-very-small-language
+46381368,New image sensor breaks optical limits [pdf],story,new,1766627471,https://phys.org/news/2025-12-image-sensor-optical-limits.pdf
+46381331,"Linus - kernel copyright licence covers software, does not extend to hardware",story,new,1766626923,https://social.kernel.org/notice/B1aR6QFuzksLVSyBZQ
+46381325,Motor powers prototype in-wheel electric powertrain system,story,new,1766626877,https://www.electrichybridvehicletechnology.com/news/record-breaking-motor-powers-prototype-in-wheel-electric-powertrain-system.html
+46381323,Bridge Anonymization,story,new,1766626863,https://github.com/elanlanguages/bridge-anonymization
+46381320,Why Taylor Swift's Frequent Flights Probably Won't Give Her Cancer,story,new,1766626813,https://duncansnotes.substack.com/p/cosmic-radiation-at-10000-feet-why
+46381317,Production-Ready Speculative Decoding Models and Framework,story,new,1766626770,https://lmsys.org/blog/2025-12-23-spec-bundle-phase-1/
+46381313,Authenticating SSH Sessions with Secure Enclave,story,new,1766626678,https://ewpratten.com/blog/ssh-secure-enclave
+46381298,Selling Cool Domain,story,new,1766626416,https://imtalking.com
+46381281,Show HN: Kling Motion Control – Precise Motion Transfer from Video to Character,show_hn,new,1766626190,https://www.klingmotion.com/?i=d1d5k
+46381275,Advent of Code 2025: Haskell Solution Reflections for All 12 Days,story,new,1766626117,https://blog.jle.im/entry/advent-of-code-2025.html
+46381236,Love Actually is around Heathrow (2021),story,new,1766625672,https://www.heathrow.com/latest-news/love-actually-is-all-around-at-heathrow-airport
+46381209,Stock Success Predictor – FinSight AI,story,new,1766625455,https://buy.stripe.com/6oUfZi6Xd51XeL3bxP9EI00
+46381190,I Built Cursor for Marketing Emails,story,new,1766625301,https://www.sequenzy.com
+46381062,A movie-like Music Video built using AI,story,new,1766624116,https://www.youtube.com/watch?v=SvfCvAdxKew
+46381040,China manga convention bars Japanese content amid political tensions,story,new,1766623894,https://english.kyodonews.net/articles/-/67449
+46380963,"Show HN: Calclock, Countdown/Lifeclock, Configurable",show_hn,new,1766623173,https://thysys.com/happy-new-year.html
+46380953,The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind,story,new,1766623089,https://mirari.vitasys.nl/our-story/
+46380947,The Illusion of Political Independence,story,new,1766623034,https://www.mdpi.com/3042-8084/1/1/3
+46380942,Claude-How To,story,new,1766622969,https://github.com/luongnv89/claude-howto
+46380910,VidScore AI: Analyze your videos before you post,story,new,1766622658,https://apps.apple.com/us/app/vidscore-ai-viral-analytics/id6756249746
+46380873,Coding Snake in Functional JavaScript (2018) [video],story,new,1766622330,https://www.youtube.com/watch?v=poVMBGe1THE
+46380868,Ask HN: How can anyone be confident in investor meetings?,ask_hn,new,1766622268,
+46380855,Librarians Tired of Being Accused of Hiding Secret Books That Were Made Up by AI,story,new,1766622162,https://gizmodo.com/librarians-arent-hiding-secret-books-from-you-that-only-ai-knows-about-2000698176
+46380846,QEMU Version 10.2.0 Released,story,new,1766622139,https://www.qemu.org/2025/12/24/qemu-10-2-0/
+46380783,"Abstraction use in education, transition sentences",story,new,1766621585,https://lukes-blog.vercel.app/posts/007-education-and-writing
+46380758,Who Watches the Waymos? I do [video],story,new,1766621412,https://www.youtube.com/watch?v=oYU2hAbx_Fc
+46380751,Investors Warn of 'Rot in Private Equity' as Funds Strike Circular Deals,story,new,1766621356,https://www.nytimes.com/2025/12/24/business/private-equity-continuation-funds.html
+46380746,It Is Happening Here,story,new,1766621318,https://newrepublic.com/article/204227/trump-immigration-nightmare-happening-here
+46380740,Schleppy AGI,story,new,1766621258,https://www.seriousanimals.com/schleppy-agi/
+46380730,Silicon Valley's tone-deaf take on the AI backlash will matter in 2026,story,new,1766621194,https://fortune.com/2025/12/23/silicon-valleys-tone-deaf-take-on-the-ai-backlash-will-matter-in-2026/
+46380720,The AI Bias Before Christmas (2023) [video],story,new,1766621099,https://www.youtube.com/watch?v=7xRXYJ355Tg
+46380697,Vitest Browser Mode Guide,story,new,1766620949,https://howtotestfrontend.com/resources/vitest-browser-mode-guide-and-setup-info
+46380691,"Show HN: 28MB local agent solves ""Gravity Othello"" where GPT-5.2 fails",show_hn,new,1766620905,https://github.com/ext-sakamoro/ContextDrift
+46380684,The first fully CGI character is nearly 40 years old (2024),story,new,1766620824,https://screenrant.com/young-sherlock-holmes-movie-first-full-cgi-character/
+46380683,Norad Tracks Santa,story,new,1766620813,https://www.noradsanta.org/en/map
+46380681,Saadia Gaon,story,new,1766620794,https://en.wikipedia.org/wiki/Saadia_Gaon
+46380658,Mathematically extra-complicated Secretest Santa 2025 [video],story,new,1766620611,https://www.youtube.com/watch?v=4pG8_bWpmaE
+46380655,Fun Library Kiosk and Novel Web-Based Display of Web Pages,story,new,1766620601,https://blog.archive.org/2025/12/16/fun-library-kiosk-and-novel-web-based-display-of-millions-of-web-pages/
+46380644,"AI Image Generators Default to the Same 12 Photo Styles, Study Finds",story,new,1766620552,https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012
+46380628,Sweden Steps Up Efforts to Reverse the Decline in Cash Usage,story,new,1766620475,https://cashessentials.org/sweden-steps-up-efforts-to-reverse-the-decline-in-cash-usage/
+46380615,Mathematically extra-complicated Secretest Santa 2025,story,new,1766620304,https://tom7.org/santa/santa.html
+46380614,The Vulgar Script: The Alliance Against Open AI,story,new,1766620301,https://jaco-bro.github.io/blog/?post=vulgar_script_251224.md
+46380607,Salmon Recipe,story,new,1766620263,https://waveinscriber.com/posts/002-salmon-recipe/
+46380602,UK police forces lobbied to use biased facial recognition technology,story,new,1766620247,https://www.theguardian.com/technology/2025/dec/10/police-facial-recognition-technology-bias
+46380589,Memory: Agents Learn,story,new,1766620058,https://www.ashpreetbedi.com/articles/memory
+46380475,Microsoft please get your tab to autocomplete shit together,story,new,1766619195,https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/
+46380450,"Whales, beards, mules and VIPs: the secret world of professional gambling",story,new,1766619044,https://www.theguardian.com/society/2025/dec/05/whales-beards-mules-and-vips-the-secret-world-of-high-rolling-professional-gambling
+46380443,Ambicular: Bring your Christmas melody to life,story,new,1766618996,https://ambicular.com/
+46380408,Datafun – functional language that generalizes Datalog,story,new,1766618790,https://www.rntz.net/datafun/
+46380399,Asterisk AI Voice Agent,story,new,1766618737,https://github.com/hkjarral/Asterisk-AI-Voice-Agent
+46380377,Writing non-English languages with a QWERTY keyboard,story,new,1766618505,https://altgr-weur.eu/altgr-intl.html
+46380352,Ask HN: What happens when AI doesn't need human tools?,ask_hn,new,1766618256,
+46380349,France Is Bacon,story,new,1766618213,https://www.stevestewartwilliams.com/p/france-is-bacon
+46380342,Teardown of Sharge Pixel 140 GAN Charger (S2),story,new,1766618167,https://www.chargerlab.com/teardown-of-sharge-pixel-140-gan-charger-s2/
+46380338,"Amjad Taha, Muslim Brotherhood Maxxing and the Emirati Dysinfluencer Factory",story,new,1766618135,https://marcowenjones.substack.com/p/amjad-taha-muslim-brotherhood-maxxing
+46380332,Dollars in Sales over the Weekend,story,new,1766618074,https://www.flyingstart.co/Domain-Names-For-Sale
+46380330,Breakthrough Listen Observations of 3I/Atlas with the Green Bank Telescope,story,new,1766618061,https://arxiv.org/abs/2512.19763
+46380317,Rust the Process,story,new,1766617910,https://www.amalbansode.com/writing/2025-12-24-rust-the-process/
+46380307,"The Shape of AI: Jaggedness, Bottlenecks and Salients",story,new,1766617854,https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks
+46380297,"Graphonym – Your acronyms, defined and connected",story,new,1766617803,https://graphonym.com
+46380274,"In the Age of AI, Your App Is Falling Behind",story,new,1766617641,https://medium.com/@limelink/in-the-age-of-ai-youre-already-falling-behind-85d01aeaf5f8
+46380264,Why Use Ed(1),story,new,1766617593,https://blog.thechases.com/posts/cli/why-ed1/
+46380244,SlicerVM: Deploy Firecracker MicroVMs via YAML or API,story,new,1766617412,https://slicervm.com/
+46380207,KC3: Programming language for meta-programming with an embedded graph database,story,new,1766617218,https://kc3-lang.org/
+46380146,US drops plan to deport Chinese national who exposed Xinjiang abuses,story,new,1766616690,https://apnews.com/article/china-xinjiang-guan-dhs-deportation-4501dd29b8bd61c7282c88693d47930e
+46380145,YouTube Has a Firm Grip on Daytime TV,story,new,1766616677,https://www.nytimes.com/2025/12/23/business/media/youtube-has-a-firm-grip-on-daytime-tv.html
+46380123,"GNU C Language Introduction and Reference Manual, Edition 0.1 (May 2025) [pdf]",story,new,1766616505,https://www.gnu.org/software/c-intro-and-ref/manual/c-intro-and-ref.pdf
+46380097,ShareTechnote,story,new,1766616350,https://www.sharetechnote.com/Home.html
+46380085,Social Collections: Find your friends social media handles,story,new,1766616281,https://collections.social
+46380079,Faster Rust Builds on Mac,story,new,1766616252,https://nnethercote.github.io/2025/09/04/faster-rust-builds-on-mac.html
+46380075,Phoenix: A modern X server written from scratch in Zig,story,new,1766616233,https://git.dec05eba.com/phoenix/about/
+46380054,2D Signed Distance Functions,story,new,1766616071,https://iquilezles.org/articles/distfunctions2d/
+46380040,Regulating Algorithmic Content Distribution and Moderation by Online Platforms,story,new,1766616001,https://www.rstreet.org/research/regulating-algorithmic-content-distribution-and-moderation-by-online-platforms/
+46380032,Re: Question about LuaJIT v3.0 status,story,new,1766615940,"https://www.freelists.org/post/luajit/Question-about-LuaJIT-v30-status,1"
+46380027,"Microsoft: ""30% of Our Code Is AI."" Also Microsoft: ""Windows Is Broken.""",story,new,1766615914,https://michael-dev-tech.github.io/Website/broken.html
+46379970,Visualizing File Formats for Fun,story,new,1766615430,https://www.telkins.com/blog/visualizing-file-formats
+46379952,Show HN: AI Courtroom to settle arguments with your family this X-mas,show_hn,new,1766615306,https://thecourthouse.ai/
+46379941,TOPS-10 in a Box (2011),story,new,1766615226,https://www.filfre.net/2011/05/tops-10-in-a-box/
+46379931,Show HN: In-app messaging for modern SaaS (that doesn't cost $$$/mo),show_hn,new,1766615131,https://cueflow.so/
+46379928,Where Will AI Dissent Go in 2026?,story,new,1766615103,https://www.unite.ai/where-will-ai-dissent-go-in-2026/
+46379927,Show HN: Just Fucking Use Cloudflare – A satirical guide to the CF stack,show_hn,new,1766615102,https://justfuckingusecloudflare.com
+46379892,The Concept of Bias: A Baseline Mechanism for Efficient Intelligence,story,new,1766614883,https://theminddeveloper.github.io/LargeLanguageMind/notes/the_concept_of_bias.html
+46379890,Zelda: Twilight Princess Has Been Decompiled,story,new,1766614852,https://www.timeextension.com/news/2025/12/zelda-twilight-princess-has-been-decompiled
+46379878,Would an AI die to save you?,story,new,1766614793,https://twitter.com/kradleai/status/2003884971086565846
+46379855,Modern Rust and llama.cpp running on 20-year-old PowerPC Macs (Tiger/Leopard),story,new,1766614580,
+46379829,"Betty Reid Soskin, oldest-ever US national park ranger, has died",story,new,1766614360,https://www.latimes.com/environment/story/2025-12-23/betty-reid-soskin-oldest-national-park-service-ranger-dies-at-104
+46379812,Cats-effect: I/O Integrated Runtime Concept,story,new,1766614254,https://github.com/typelevel/cats-effect/discussions/3070
+46379790,"The AI capability measurement gap – Joel Becker, METR [video]",story,new,1766614111,https://www.youtube.com/watch?v=RhfqQKe22ZA
+46379765,Postgres extension complements pgvector for performance and scale,story,new,1766613897,https://github.com/timescale/pgvectorscale
+46379758,Workers across the U.S. are set for minimum wage increases in 2026,story,new,1766613827,https://www.cbsnews.com/news/2026-minimum-wage-increases/
+46379710,A linear imageboru for My Little Pony art,story,new,1766613466,https://derpibooru.org/
+46379677,How I Left YouTube,story,new,1766613288,https://zhach.news/how-i-left-youtube/
+46379676,FileKit.dev – New Thumbnail Component and Multi Upload Support,story,new,1766613288,https://filekit.dev/documentation
+46379671,Maybe the Default Settings Are Too High,story,new,1766613262,https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/
+46379670,The Phone-Based Retirement Is Here,story,new,1766613248,https://www.theatlantic.com/technology/2025/12/do-your-parents-have-screen-time-problem/685424/
+46379665,Hacking a Java Minecraft server with memory overflows using in-game mechanics,story,new,1766613224,https://www.youtube.com/watch?v=Zy6Ci-K-0K8
+46379643,South Korea Passes Strictest Disinformation Law in Any Democracy,story,new,1766613096,https://www.koreaherald.com/article/10642910
+46379630,Steam Store is offline,story,new,1766613020,https://steamstat.us/
+46379594,"89 years ago, an SF-to-Hawaii flight changed the world forever",story,new,1766612781,https://www.sfgate.com/hawaii/article/hawaii-air-travel-history-21246817.php
+46379593,Deep metatranscriptomic sequencing data of wastewater from Los Angeles 2023–2024,story,new,1766612771,https://www.nature.com/articles/s41597-025-06475-7
+46379587,Indiegogo suppressing indie journalists exposing israel,story,new,1766612702,https://www.youtube.com/watch?v=nIePTGWF15k
+46379585,Groq and Nvidia Licensing Agreement,story,new,1766612697,https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale
+46379579,Golfing Is Not Rowing,story,new,1766612644,https://taylor.town/golf-vs-rowing
+46379562,"Back to the future: the story of Squeak, a practical Smalltalk written in itself [pdf]",story,new,1766612527,http://www.vpri.org/pdf/tr1997001_backto.pdf
+46379545,Building Embeddable Widgets with Phoenix Channels,story,new,1766612426,https://zarar.dev/building-embeddable-widgets-with-phoenix-channels/
+46379538,Early retirement calculator that models a full 50-years(for retiring young),story,new,1766612389,https://earlyretirementrunway.com/
+46379526,"Spec Kit: Spec-driven development with AI, a new open-source toolkit",story,new,1766612314,https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/
+46379517,Bignum Bakeoff: The Coding Competition You've Probably Never Heard Of,story,new,1766612243,https://www.youtube.com/playlist?list=PL-R4p-BRL8NR8THgjx_DW9c92VHTtjZEY
+46379514,Enable Compression for SSH (2013),story,new,1766612229,https://www.gidblog.com/enable-compression-for-ssh/
+46379501,"The Pentagon and AI Giants Have a Weakness. Both Need China's Batteries, Badly",story,new,1766612166,https://www.nytimes.com/2025/12/23/climate/pentagon-weapons-ai-artificial-intelligence-china-batteries.html
+46379486,Five pre-training tricks from Character AI,story,new,1766612100,https://twitter.com/simon_mo_/status/2003608325624406482
+46379471,"Collect memories, not things. Until memories start fading",story,new,1766611987,https://www.marekdlugos.com/blog/collect-memories-not-things-until-memories-start-fading/
+46379453,Beware Isolated Demands for Rigor,story,new,1766611869,https://slatestarcodex.com/2014/08/14/beware-isolated-demands-for-rigor/
+46379452,A man hunting the spies in your smartphone,story,new,1766611864,https://www.technologyreview.com/2025/12/24/1129294/ronald-deibert-citizen-lab-digital-threats-spies-cybersecurity/
+46379409,Gravity coupling matches the 128-bit integer limit to 6 ppm,story,new,1766611542,
+46379373,"Show HN: Equira – Track Stocks, Crypto, Gold and Real Estate in One Dashboard",show_hn,new,1766611310,https://apps.apple.com/us/app/equira-portfolio-manager/id6751342549
+46379368,"LLM-API-Key-Proxy: Universal LLM Gateway: One API, Every LLM",story,new,1766611294,https://github.com/Mirrowel/LLM-API-Key-Proxy
+46379346,How Money Is Born Out of Public Spending and Dies by Taxes (2023),story,new,1766611177,https://www.scottsantens.com/how-money-is-born-out-of-public-spending-and-dies-by-taxes-mmt/
+46379325,2025: The Year of Front-Loaded Vesting Schedules,story,new,1766611073,https://www.levels.fyi/blog/front-loaded-vesting.html
+46379323,The Case Against LLMs as Rerankers,story,new,1766611042,https://blog.voyageai.com/2025/10/22/the-case-against-llms-as-rerankers/
+46379301,GraphicsMagick FAQ,story,new,1766610915,http://www.graphicsmagick.org/FAQ.html
+46379291,Obsidian and Claude Code PKM Starter Kit,story,new,1766610851,https://github.com/ballred/obsidian-claude-pkm
+46379287,Advent of Slop: A Guest Post by Claude,story,new,1766610845,https://lucumr.pocoo.org/2025/12/23/advent-of-slop/
+46379278,GraphicsMagick Image Processing System,story,new,1766610811,http://www.graphicsmagick.org/
+46379268,How to Make an Economy-Class Airplane Seat a Little Less Miserable,story,new,1766610760,https://www.wsj.com/lifestyle/travel/how-to-make-your-economy-class-plane-seat-better-9cc7905f
+46379211,Amatuer codebreaker may have solved Zodiac killer identity,story,new,1766610377,https://www.sfchronicle.com/bayarea/article/black-dahlia-zodiac-killings-new-theory-21259726.php
+46379198,"Twitter (now X) added an ""Edit Image"" feature to edit any image posted with AI",story,new,1766610283,https://twitter.com/reijaku_/status/2003698978198818847
+46379194,Porting Photoshop 1.0 source to the web using GPT-5.2-Codex-Max and Codex CLI,story,new,1766610248,https://photoslop-1.com/port
+46379183,Nvidia buying AI chip startup Groq for about $20B in cash,story,new,1766610135,https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html
+46379167,"Ain't your parents' Game Boy: New gaming handhelds are powerful, pricey",story,new,1766609981,https://www.cbc.ca/news/entertainment/gaming-handhelds-2025-roundup-9.7026240
+46379156,"U.S. FCC bans foreign-made drones from DJI, others",story,new,1766609906,https://www.tomshardware.com/tech-industry/u-s-fcc-bans-foreign-made-drones-from-dji-others-dji-to-be-heavily-affected-by-the-announcement-with-many-american-drone-pilots-up-in-arms-due-to-lack-of-viable-alternatives
+46379142,"Ask HN: As AI rises, what can people create if they want to stay out?",ask_hn,new,1766609786,
+46379136,Movie marketing used to be fun. Now it's just inescapable,story,new,1766609776,https://www.vulture.com/article/movie-marketing-used-to-be-fun-now-its-just-inescapable.html
+46379129,Build Your Own 100TB NAS in 2025: Complete TrueNAS Storage Guide,story,new,1766609732,https://techlife.blog/posts/build-your-own-100tb-nas-2025-complete-truenas-storage-guide/
+46379124,Edgeshark: Docker networks visualization and inspection tool,story,new,1766609703,https://edgeshark.siemens.io/#/
+46379116,Paul Graham Ate Breakfast,story,new,1766609630,https://web.archive.org/web/20251224205355/https://old.reddit.com/r/reddit.com/comments/4jxe/paul_graham_ate_breakfast/
+46379111,AI tools are overdelivering: results from our large-scale AI productivity survey,story,new,1766609578,https://www.lennysnewsletter.com/p/ai-tools-are-overdelivering-results
+46379109,Show HN: AI that writes 5 specific e-com description types,show_hn,new,1766609558,https://scriptor.studio/
+46379098,US Coast Guard lacks forces to seize Venezuela-linked tanker for now,story,new,1766609472,https://www.reuters.com/world/americas/us-eyes-additional-coast-guard-assets-seize-fleeing-tanker-sources-say-2025-12-24/
+46379076,Spaced repetition for efficient learning (2019),story,new,1766609333,https://gwern.net/spaced-repetition
+46379063,How to Tune a Lamp Stack on Debian for Maximum Performance,story,new,1766609143,https://j11g.com/2025/12/24/how-to-tune-a-lamp-stack-on-debian-for-maximum-performance/
+46379050,Claude Pro and Max subscribers get 2x usage limits through New Year's Eve,story,new,1766609063,https://twitter.com/claudeai/status/2003918730833608902
+46379020,Querying and Ingest Issues in EU,story,new,1766608814,https://status.honeycomb.io/incidents/pjzh0mtqw3vt
+46379018,Show HN: What We Learned Building an AI Design Tool for Brands?,show_hn,new,1766608804,https://picxstudio.com
+46379005,Wayback 0.3 Released,story,new,1766608701,https://wayback.freedesktop.org/news/2025/12/22/wayback-0.3-released/
+46379001,Folder.zone: Share end-to-end encrypted folders live,story,new,1766608663,https://folder.zone
+46378981,From Compose to Systemd: Elegantly Managing Containers with Podman and Quadlet,story,new,1766608559,https://www.nite07.com/en/posts/podman/
+46378956,(My) Second Year of the Linux Desktop (For Gaming),story,new,1766608340,https://blog.matthewbrunelle.com/my-second-year-of-the-linux-desktop-for-gaming/
+46378939,MongoDB warns admins to patch RCE flaw immediately,story,new,1766608192,https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/
+46378929,Show HN: My open-source tool for visualizing Crossplane resources,show_hn,new,1766608066,https://github.com/corpobit/crossview
+46378907,Show HN: Hackernewsd – Automate monitoring topics on Hacker News,show_hn,new,1766607869,https://github.com/somegenericdev/hackernewsd
+46378899,Show HN: I built a tool to scrape and summarize Reddit long discussions,show_hn,new,1766607794,
+46378885,Peter Naur's Documentation Pessimism,story,new,1766607683,https://xrrocha.github.io/solo-dev-musings/001-naur-documentation-pessimism/en/
+46378873,Resurrecting my old Turbo Pascal homework with AI,story,new,1766607636,https://benashford.github.io/blog/2025/12/24/resurrecting-my-old-turbo-pascal-homework-with-ai/
+46378854,Perfect Is the Enemy of Good (2025),story,new,1766607492,https://medv.io/blog/perfect-is-the-enemy-of-good
+46378853,Officials discover a million more documents potentially related to Epstein case,story,new,1766607488,https://www.bbc.co.uk/news/articles/czdgz84dn35o
+46378842,Toward a Grand Unified Theory of Snowflakes,story,new,1766607401,https://www.quantamagazine.org/toward-a-grand-unified-theory-of-snowflakes-20191219/
+46378825,The Shape of Artificial Intelligence,story,new,1766607272,https://www.thealgorithmicbridge.com/p/the-shape-of-artificial-intelligence
+46378810,Arepl for Python – Visual Studio Marketplace,story,new,1766607101,https://marketplace.visualstudio.com/items?itemName=almenon.arepl
+46378804,The Government Unconstitutionally Labels ICE Observers as Domestic Terrorists,story,new,1766607070,https://www.cato.org/blog/dhs-policy-threatening-arresting-ice-observers-violates-their-rights
+46378788,Show HN: Secret Santa Wonderland – No More Lonely Christmas,show_hn,new,1766606987,https://secretsantawonderland.com/
+46378747,Beijing is enforcing tough rules to ensure chatbots don’t misbehave,story,new,1766606692,https://www.wsj.com/tech/ai/china-is-worried-ai-threatens-party-ruleand-is-trying-to-tame-it-bfdcda2d
+46378731,WPScan: WordPress Security Scanner,story,new,1766606601,https://github.com/wpscanteam/wpscan
+46378718,T * sin (t) ≈ Christmas tree (2013),story,new,1766606520,https://github.com/anvaka/atree
+46378714,A Distant Salutation: The moment the South lost the civil war,story,new,1766606510,https://lessobvious.shorthandstories.com/jeb/
+46378704,Ask HN: Where do deterministic rules break down for LLM guardrails?,ask_hn,new,1766606414,
+46378557,"Can eating high fat cheese and cream reduce dementia risk,as new study suggests?",story,new,1766605356,https://theconversation.com/can-eating-high-fat-cheese-and-cream-reduce-dementia-risk-as-a-new-study-suggests-272138
+46378543,Saturation: Waymo Edition,story,new,1766605278,https://surfingcomplexity.blog/2025/12/23/saturation-waymo-edition/
+46378512,Nano Banana AI Image Editor Advanced Image Generation and Edit,story,new,1766605074,https://nano-bananaai.org/
+46378507,A Curl 2025 Review,story,new,1766605051,https://daniel.haxx.se/blog/2025/12/23/a-curl-2025-review/
+46378499,Year in review 2025: AI in data science [Python/R],story,new,1766605000,https://posit.co/blog/2025-12-19-ai-newsletter/
+46378489,Cars are going high-tech at the risk of software woes,story,new,1766604939,https://www.morningbrew.com/stories/2025/01/09/cars-are-going-high-tech-at-the-risk-of-software-woes
+46378483,The Crash That Led One County to Reckon with the Dangers of E-Bikes,story,new,1766604901,https://www.nytimes.com/2025/11/30/magazine/e-bikes-accidents-safety-legislation-california.html
+46378482,Show HN: Chatpack – Compress chat exports 13x for LLM analysis (Rust),show_hn,new,1766604899,https://github.com/Berektassuly/chatpack
+46378480,Show HN: Online 3D game engine now in Beta,show_hn,new,1766604885,https://phibelle.studio/
+46378471,The Twelfth Day of Agents: A Reflection and Heartfelt Thank You,story,new,1766604777,https://buttondown.com/johncoghlan/archive/on-the-twelfth-day-of-agents-a-reflection-and/
+46378469,European Majority favours more social media regulation,story,new,1766604771,https://yougov.co.uk/technology/articles/53241-european-political-monthly-where-do-europeans-stand-on-social-media-regulation
+46378466,Are Young College Graduates Losing Their Edge in the Job Market?,story,new,1766604746,https://www.clevelandfed.org/publications/economic-commentary/2025/ec-202514-are-young-college-graduates-losing-their-edge-in-the-job-market
+46378465,Beware of Central Economic Forecasts for 2026,story,new,1766604739,https://www.project-syndicate.org/commentary/2026-forecast-for-the-us-economy-includes-three-probable-scenarios-by-mohamed-a-el-erian-2025-12
+46378464,Intelligence – Space Investigation Game,story,new,1766604733,https://intelligencegame.tech/
+46378459,Postgres with Instant Branching,story,new,1766604712,https://github.com/elitan/velo
+46378448,Palantir says college is no longer a reliable training ground,story,new,1766604640,https://fortune.com/2025/11/05/palantir-colleges-no-longer-reliable-training-ground-gen-z-hire-22-high-school-students-fellowship/
+46378422,Google Built Its Empire Scraping the Web. Now It's Suing a Scraper of Google,story,new,1766604447,https://www.techdirt.com/2025/12/24/google-built-its-empire-scraping-the-web-now-its-suing-to-stop-others-from-scraping-google/
+46378398,"How two explorers, a mother and a baby made America",story,new,1766604290,https://www.economist.com/interactive/christmas-specials/2025/12/18/how-two-explorers-a-mother-and-a-baby-made-america
+46378392,RSS Service Subscriber Counts in Server Logs,story,new,1766604268,https://thenewleafjournal.com/checking-our-rss-service-subscriber-counts-in-server-logs/
+46378385,Reversal of Alzheimer's in animal models to full neurological recovery,story,new,1766604201,https://medicalxpress.com/news/2025-12-alzheimer-disease-reversed-animal-full.html
+46378347,Crime in the U.S. fell in 2025. Will the trend continue?,story,new,1766603941,https://www.npr.org/2025/12/24/nx-s1-5611466/2025-crime-trends-2026-predictions
+46378338,Elementary OS 8.1 Available Now,story,new,1766603874,https://blog.elementary.io/os-8-1-available-now/
+46378325,Brain Gear Is the Hot New Wearable,story,new,1766603791,https://www.wired.com/story/expired-tired-wired-wearables/
+46378310,Lab teaching you how to exploit the latest n8n vuln,story,new,1766603665,https://tryhackme.com/room/n8ncve202568613
+46378306,Rack makes Pion SCTP 71% faster with 27% less latency,story,new,1766603635,https://pion.ly/blog/sctp-and-rack/
+46378300,Show HN: Got Tired of LLMs refusing to visit URLs Built open source analyzer CLI,show_hn,new,1766603593,https://github.com/aaronedell/website-company-analyzer
+46378298,The economics of all-you-can-eat buffets,story,new,1766603589,https://thehustle.co/the-economics-of-all-you-can-eat-buffets
+46378296,Rush hour game generator for playing with your kids,story,new,1766603587,https://www.michaelfogleman.com/static/rush/#FBBCCIFooHoIFAAHoJooGDDJooGooJEEGooo/28
+46378282,Show HN: Go helper for generating FFmpeg HLS/DASH commands,show_hn,new,1766603483,https://github.com/farshidrezaei/mosaic
+46378252,Cjanet,story,new,1766603235,https://github.com/janet-lang/spork/blob/cjanet-jit/spork/cjanet.janet
+46378220,Lessons from Building an Indie App for Artists,story,new,1766602931,https://shanehudson.net/articles/2025/indie-app-for-artists
+46378214,"""N as in, uh"" Guide for Telephone Conversations",story,new,1766602904,https://blog.zenosmosis.com/posts/6-nato-alphabet-words/
+46378201,"Show HN: Beat (SRF) – No Parsing, No Tokenization, Binary-Level Speed",show_hn,new,1766602824,https://github.com/aidgncom/beat
+46378190,Show HN: Unix-HTTP-desktop Unix programs in a browser using x.org,show_hn,new,1766602754,https://bitbucket.org/mieszkowski/unix_http_desktop/src/master/
+46378155,A Black Scholes explainer with simulations you can interact with,story,new,1766602450,https://envision.page/papers/black-scholes
+46378145,How Woodworking Taught Me to Be a Programmer,story,new,1766602386,https://thinkhuman.com/how-woodworking-taught-me-to-be-a-programmer/
+46378136,How I do web design,story,new,1766602338,https://www.kooslooijesteijn.net/blog/how-i-do-web-design
+46378133,Pulled '60 Minutes' segment on Trump immigration policy accidentally aired,story,new,1766602326,https://www.adn.com/nation-world/2025/12/24/pulled-60-minutes-segment-on-trump-immigration-policy-accidentally-aired-online/
+46378123,Caviar and foie gras? China is becoming a luxury food powerhouse,story,new,1766602284,https://www.ft.com/content/e020def9-e455-44fb-bedc-b3b4fc28c304
+46378112,Show HN: Santa Saves Xmas; Android Game in Google Play Console Closed Testing,show_hn,new,1766602204,
+46378095,Onion and Garlic Braiding,story,new,1766602060,https://abundantpermaculture.com/how-to-braid-garlic-and-onions/
+46378092,Spaceball 2003 with Modern Software,story,new,1766602035,https://github.com/jfedor2/spaceball-2003
+46378084,California to ban all plastic bags at retail stores starting in 2026,story,new,1766601954,https://www.abc10.com/article/news/politics/california-to-ban-all-plastic-bags-at-retail-stores-starting-2026/103-a873409f-ccb5-4f4b-b676-c5ae9060d6fc
+46378070,Magic-Image: A React Component That Lets Coding Agents Create Images,story,new,1766601842,https://bits.logic.inc/p/open-sourcing-magic-image-a-react
+46378064,Flamanville reactor has reached 100% of nuclear thermal power,story,new,1766601795,https://www.edf.fr/en/the-edf-group/dedicated-sections/journalists/all-press-releases/update-on-the-flamanville-epr-the-reactor-has-reached-100-of-nuclear-thermal-power
+46378049,An initial analysis of the rediscovered Unix V4 tape,story,new,1766601724,https://www.spinellis.gr/blog/20251223/
+46378045,ARC-AGI-3,story,new,1766601697,https://arcprize.org/arc-agi/3/
+46378026,Make a Scalable Christmas Tree,story,new,1766601571,https://codegolf.stackexchange.com/questions/15860/make-a-scalable-christmas-tree
+46378021,Marcan (Hector Martin) appears to be contributing to the Ashai Linux project,story,new,1766601526,https://lore.kernel.org/asahi/20251215-macsmc-subdevs-v6-4-0518cb5f28ae@gmail.com/
+46378018,"Programmatic ASCII art – creative, scalable, dynamic, and beyond",story,new,1766601492,https://community.wolfram.com/groups/-/m/t/181532
+46377995,A Scalable Communication Protocol for Networks of Large Language Models,story,new,1766601297,https://arxiv.org/abs/2410.11905
+46377985,"Mech Programming Language or developing data-driven, reactive systems",story,new,1766601213,https://github.com/mech-lang
+46377938,"Apply to be a Judge Paying $159,951 to $207,500",story,new,1766600847,https://join.justice.gov/
+46377922,What happened to tidal-dl-ng?,story,new,1766600771,
+46377921,Being Santa Claus is a year-round calling,story,new,1766600769,https://arstechnica.com/science/2025/12/being-santa-claus-is-a-year-round-calling/
+46377865,"Why Your AI ""Fine-Tuning"" Budget Is a Total Waste of Capital in 2026",story,new,1766600290,https://noemititarenco.com/blog/why-your-ai-fine-tuning-budget-is-a-total-waste-of-capital-in-2026/
+46377862,Fabrice Bellard: Biography (2009) [pdf],story,new,1766600267,https://www.ipaidia.gr/wp-content/uploads/2020/12/117-2020-fabrice-bellard.pdf
+46377855,The Pod Shop Game: Have you got what it takes to run your own hedge fund?!,story,new,1766600237,https://www.podshop.io/
+46377842,In Pursuit of the Monarch's Magnetic Sense,story,new,1766600114,https://www.nytimes.com/2025/12/23/science/neuroscience-monarch-butterflies-migration.html
+46377834,Peter Gutmann – Why Quantum Cryptanalysis Is Bollocks [video],story,new,1766600046,https://www.youtube.com/watch?v=xa4Ok7WNFHY
+46377810,Fixing HN comments with breadth-first navigation,story,new,1766599880,https://pratik.is/writing/essays/hn-comments
+46377796,"Researchers achieved 1,270 Wh/L in an anode-free lithium metal battery",story,new,1766599782,https://postech.ac.kr/eng/research/research_results.do?mode=view&articleNo=43617&title=Anode-Free+Battery+Doubles+Electric+Vehicle+Driving+Range
+46377782,Will people signup for AI Interview Coaching,story,new,1766599700,https://www.capcheck.app/
+46377760,Swanky Python: Interactive Development for Python,story,new,1766599501,https://emacsconf.org/2025/talks/swanky/
+46377757,ZipPop: A space conserving unzipping script,story,new,1766599486,https://github.com/th0ma5w/ZipPop
+46377730,Can LLMs stop when producing any output violates their own rules?,story,new,1766599344,
+46377662,Hermetic Sealing Solutions for High-Performance Miniaturized Battery Systems,story,new,1766598966,https://content.knowledgehub.wiley.com/dual-seal-method-for-the-hermetic-sealing-of-microbatteries/
+46377656,Yt-vid-notifier: CLI notifier for new YouTube videos,story,new,1766598937,https://github.com/eyeblech/yt-vid-notifier
+46377644,Show HN: Merry Xmas from 90s,show_hn,new,1766598823,https://90synth-xmas.vercel.app/
+46377640,Slogx – console.log() but better for back end debugging,story,new,1766598809,https://github.com/binhonglee/slogx
+46377629,Chatmail Protocol - using email as transport layer routers,story,new,1766598720,https://chatmail.at/
+46377620,"Inmates could escape jail on drones, warns top prison governor",story,new,1766598666,https://news.sky.com/story/drones-are-sending-overwhelming-amounts-of-drugs-into-prisons-and-could-help-inmates-escape-report-warns-13393798
+46377605,"A Father, a Son and Their $108B Push for Media Moguldom (Larry Ellison)",story,new,1766598586,https://www.nytimes.com/2025/12/24/business/media/larry-david-ellison-warner-bros-discovery-cbs.html
+46377592,The Joyful Chaos of the Early Web: A Conversation with Creator Audrey Witters,story,new,1766598513,https://blog.archive.org/2025/12/22/audrey-witters/
+46377587,Judge in Vizio Case Rules on Issue Irrelevant to Rights Under Copyleft,story,new,1766598478,https://sfconservancy.org/news/2025/dec/24/vizio-msa-irrelevant-ruling/
+46377579,The 2025 Matrix Holiday Special,story,new,1766598401,https://matrix.org/blog/2025/12/24/matrix-holiday-special/
+46377572,I think I just solved screen-time addiction,story,new,1766598352,https://apps.apple.com/us/app/the-scroll-toll-screen-pledge/id6741488055
+46377565,User Mode Linux How To,story,new,1766598310,https://www.kernel.org/doc/html/latest/virt/uml/user_mode_linux_howto_v2.html
+46377563,Show HN: Voklit – Cheap international calls without the carrier markup,show_hn,new,1766598290,https://voklit.com
+46377550,Vestwell to Acquire Accrue 401k,story,new,1766598228,https://401kspecialistmag.com/vestwell-to-acquire-accrue-401k/
+46377545,DeepSeek: A Tool Tuned for Social Governance,story,new,1766598203,https://jamestown.substack.com/p/deepseek-a-tool-tuned-for-social
+46377537,Microsoft Agent Framework,story,new,1766598115,https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview
+46377531,Hate Brussels sprouts? You may be living in the past,story,new,1766598056,https://www.bbc.com/future/article/20251216-hate-brussel-sprouts-you-may-be-living-in-the-past
+46377528,My 2025 Media Roundup,story,new,1766598048,https://nandinfinitum.com/posts/2025-media-roundup/
+46377502,Vibe Scheme – web-based R5RS+ interpreter with inline UI in the REPL,story,new,1766597886,https://filez.intellectronica.net/3eefa4a570e4-f2dd62a89155/vibe-scheme.html
+46377474,"CPU: CPU command in Go, inspired by the Plan 9 CPU command",story,new,1766597674,https://github.com/u-root/cpu
+46377459,Apple's App Course Runs $20k a Student. Is It Worth It?,story,new,1766597489,https://www.wired.com/story/apple-app-making-course-michigan-state-university/
+46377450,Spotify disables accounts after open-source group scrapes 86M songs,story,new,1766597403,https://therecord.media/spotify-disables-scraping-annas
+46377429,"It's the European Union vs. Musk, Round One",story,new,1766597274,https://read.misalignedmag.com/its-the-european-union-v-musk-round-one-ab565131c510
+46377414,Vcmi-gym: RL-powered combat AI for Heroes of Might and Magic 3,story,new,1766597123,https://github.com/smanolloff/vcmi-gym
+46377408,Knowledge curation (not search) is the AI big data problem,story,new,1766597076,https://www.daft.ai/blog/knowledge-curation-not-search-is-the-big-data-problem-for-ai
+46377389,"Thing, Creature, or Mirror? The Standards We Set for AI",story,new,1766596922,https://www.msthgn.com/articles/thing-creature-or-mirror-the-standards-we-set-for-ai
+46377386,Back-of-the-Envelope Math on Payouts in Bartz vs. Anthropic Settlement,story,new,1766596911,https://www.authorsalliance.org/2025/12/19/back-of-the-envelope-math-on-what-payouts-we-may-see-in-the-bartz-v-anthropic-settlement/
+46377377,The one billion dollar billboard,story,new,1766596869,https://www.theonebilliondollarbillboard.com
+46377373,"Clawdis – Your Own Personal AI Assistant. Talk via WhatsApp, Telegram or Web",story,new,1766596846,https://clawdis.ai/
+46377369,Stealthy Playwright Mode: Bypass CAPTCHAs and Bot-Detection [video],story,new,1766596817,https://www.youtube.com/watch?v=PnFD_gSmGUc
+46377368,AI apps for visual creation in 11 categories,story,new,1766596816,https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940
+46377354,BuildSherpa – end to end validation platform for your ideas,story,new,1766596745,https://buildsherpa.ai
+46377341,Bearer Bond,story,new,1766596655,https://en.wikipedia.org/wiki/Bearer_bond
+46377295,Microsoft's biggest 2026 problem – the fans have checked out,story,new,1766596286,https://www.windowscentral.com/microsoft/heading-into-2026-microsoft-is-losing-the-fans-who-once-championed-them
+46377282,Multimodal University: Hybrid Search,story,new,1766596185,
+46377269,AI Is About to Get Boring – and That's When It Gets Powerful,story,new,1766596095,https://medium.com/@leeon14/ai-is-about-to-get-boring-and-thats-when-it-gets-powerful-ad5ef0fc1abd
+46377244,Show HN: Free tool to auto-index pages and track rankings,show_hn,new,1766595878,https://seoranktracker.solutions
+46377242,A global Christmas carol in the terminal,story,new,1766595873,https://twitter.com/i/status/2003852565164036389
+46377240,China's reverse-engineered EUV chipmaking tool hasn't produced a single chip,story,new,1766595855,https://www.tomshardware.com/tech-industry/semiconductors/chinas-reverse-engineered-frankenstein-euv-chipmaking-tool-hasnt-produced-a-single-chip-sanctions-busting-experiment-is-still-years-away-from-becoming-operational
+46377239,"Show HN: AI that edits your files directly, no approvals",show_hn,new,1766595853,
+46377237,CSS-Tricks: Thank You (2025 Edition),story,new,1766595847,https://css-tricks.com/thank-you-2025-edition/
+46377214,Spice: A 40-year old open-source success story (2011),story,new,1766595628,https://www.edn.com/spice-a-40-year-old-open-source-success-story/
+46377203,Wrapped Envy Season,story,new,1766595540,https://www.wreflection.com/p/wrapped-envy-season
+46377199,Crossview – visualize Crossplane compositions and managed resources,story,new,1766595527,https://corpobit.com/products/crossview
+46348971,Handheld PC Community Forums,story,top,1766354361,https://www.hpcfactor.com/forums/category-view.asp
+46351666,CSRF protection without tokens or hidden form fields,story,top,1766381913,https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields
+46314540,JEDEC developing reduced pin count HBM4 standard to enable higher capacity,story,top,1766074310,https://blocksandfiles.com/2025/12/17/jedec-sphbm4/
+46346026,Using Vectorize to build an unreasonably good search engine in 160 lines of code,story,top,1766334985,https://blog.partykit.io/posts/using-vectorize-to-build-search/
+46367224,Fabrice Bellard Releases MicroQuickJS,story,top,1766511222,https://github.com/bellard/mquickjs/blob/main/README.md
+46322815,Research team digitizes more than 100 years of Canadian infectious disease data,story,top,1766125492,https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/
+46323177,Why Community Translation Falls Short for Your Plugins and Themes,story,top,1766129436,https://wpml.org/announcements/2025/12/why-community-translation-falls-short-for-your-plugins-and-themes/
+46339532,Comptime – C# meta-programming with compile-time code generation and evaluation,story,top,1766263792,https://github.com/sebastienros/comptime
+46319382,The First Photographs of Snowflakes Discover the Groundbreaking Microphotography,story,top,1766095130,https://www.openculture.com/2017/12/the-first-photographs-of-snowflakes.html
+46332568,Prototaxites,story,top,1766190146,https://astrobiology.com/2025/03/ancient-prototaxites-dont-belong-to-any-living-lineage-possibly-a-distinct-branch-of-multicellular-earth-life.html
+46318080,The port I couldn't ship,story,top,1766089057,https://ammil.industries/the-port-i-couldnt-ship/
+46375174,I'm returning my Framework 16,story,top,1766580919,https://yorickpeterse.com/articles/im-returning-my-framework-16/
+46338895,The dawn of a world simulator,story,top,1766259602,https://odyssey.ml/the-dawn-of-a-world-simulator
+46344104,Jingle Bells (Batman Smells): An incomplete festive folk-rhyme taxonomy,story,top,1766317128,https://loreandordure.com/2025/12/16/jingle-bells/
+46317687,A faster path to container images in Bazel,story,top,1766087429,https://www.tweag.io/blog/2025-12-18-rules_img/
+46335370,Qntm's Power Tower Toy,story,top,1766229561,https://qntm.org/files/knuth/knuth.html
+46374018,Google's year in review: areas with research breakthroughs in 2025,story,top,1766568658,https://blog.google/technology/ai/2025-research-breakthroughs/
+46371730,Lessons from the PG&E outage,story,top,1766542561,https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world
+46376652,My 2026 Open Social Web Predictions,story,top,1766591963,https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html
+46374856,Avoid Mini-Frameworks,story,top,1766577842,"https://laike9m.com/blog/avoid-mini-frameworks,171/"
+46368946,Some Epstein file redactions are being undone,story,top,1766520630,https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media
+46351196,Your inbox is a bandit problem,story,top,1766376244,https://parentheticallyspeaking.org/articles/bandit-inbox/
+46325337,Making a game on a custom bytecode VM in 7 days and 3kB,story,top,1766149247,https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb
+46365398,Quake's Player Speed (2017),story,top,1766498650,https://rome.ro/quakes-player-speed-1
+46327060,map::operator[] should be nodiscard,story,top,1766159108,https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/
+46375384,When Compilers Surprise You,story,top,1766582870,https://xania.org/202512/24-cunning-clang
+46321604,Coding Intelligence Asymptotics,story,top,1766110677,https://fi-le.net/asymptotics/
+46369923,X-ray: a Python library for finding bad redactions in PDF documents,story,top,1766526870,https://github.com/freelawproject/x-ray
+46345865,How GNU Guile is 10x better (2021),story,top,1766333809,https://www.draketo.de/software/guile-10x
+46372153,Don't Become the Machine,story,top,1766547271,https://armeet.bearblog.dev/becoming-the-machine/
+46375499,Games’ affordance of childlike wonder and reduced burnout risk in young adults,story,top,1766583826,https://games.jmir.org/2025/1/e84219/
+46375847,AMD entered the CPU market with reverse-engineered Intel 8080 clone 50 years ago,story,top,1766586515,https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-but-sold-for-usd700
+46348004,Redis vs. BoltCache,story,top,1766348193,https://github.com/wutlu/boltcache
+46349028,Fabrication Techniques Using Myco-Materials,story,top,1766354652,https://encyclopedia.pub/entry/27602
+46374117,Permission Systems for Enterprise That Scale,story,top,1766569852,https://eliocapella.com/blog/permission-systems-for-enterprise/
+46373644,The e-scooter isn't new – London was zooming around on Autopeds a century ago,story,top,1766565147,https://www.ianvisits.co.uk/articles/the-e-scooter-isnt-new-london-was-zooming-around-on-autopeds-a-century-ago-86263/
+46371429,Open source USB to GPIB converter (for Test and Measurement instruments),story,top,1766539318,https://github.com/xyphro/UsbGpib
+46316295,Scaling Go Testing with Contract and Scenario Mocks,story,top,1766081391,https://funnelstory.ai/blog/engineering/scaling-go-testing-with-contract-and-scenario-mocks
+46325073,Litex: Formal math for everyone – set theory examples with Lean comparison,story,top,1766147140,https://litexlang.com/doc/How_Litex_Works/Litex_vs_Lean_Set_Theory_Examples
+46367864,Volvo Centum is Dalton Maag's new typeface for Volvo,story,top,1766514781,https://www.wallpaper.com/design-interiors/corporate-design-branding/volvo-new-font-volvo-centum
+46361024,Inside CECOT – 60 Minutes [video],story,top,1766450187,https://archive.org/details/insidececot
+46354737,Toad is a unified experience for AI in the terminal,story,top,1766416360,https://willmcgugan.github.io/toad-released/
+46371135,Unifi Travel Router,story,top,1766536218,https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router
+46335961,Proving Bounds for the Randomized MaxCut Approximation Algorithm in Lean4,story,top,1766236581,https://abhamra.com/blog/randomized-maxcut/
+46327692,What makes you senior,story,top,1766162081,https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/
+46368300,Help My c64 caught on fire,story,top,1766516985,https://c0de517e.com/026_c64fire.htm
+46343894,I rebuilt FlashAttention in Triton to understand the performance archaeology,story,top,1766314192,https://aminediro.com/posts/flash_attn/
+46366462,The IPv4 address swamp: The new normal,story,top,1766506305,https://blog.apnic.net/2025/12/23/the-ipv4-address-swamp-the-new-normal/
+46371705,Could lockfiles just be SBOMs?,story,top,1766542234,https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html
+46371423,Nabokov's guide to foreigners learning Russian,story,top,1766539239,https://twitter.com/haravayin_hogh/status/2003299405907247502
+46367475,We replaced H.264 streaming with JPEG screenshots (and it worked better),story,top,1766512831,https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen
+46371759,Donald E. Knuth and Peter van Emde Boas on priority deques (1977) [pdf],story,top,1766542902,https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf
+46355548,Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves,story,top,1766421100,https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/
+46376201,Why We Abandoned Matrix (2024),story,top,1766588786,https://forum.hackliberty.org/t/why-we-abandoned-matrix-the-dark-truth-about-user-security-and-safety/224
+46367223,How did DOGE disrupt so much while saving so little?,story,top,1766511220,https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html
+46354674,Lua 5.5,story,top,1766415973,https://lua.org/versions.html#5.5
+46371673,'Dracula's Chivito': Hubble reveals largest birthplace of planets ever observed,story,top,1766541709,https://phys.org/news/2025-12-chaotic-dracula-chivito-hubble-reveals.html
+46367232,Towards a secure peer-to-peer app platform for Clan,story,top,1766511262,https://clan.lol/blog/towards-app-platform-vmtech/
+46363360,Instant database clones with PostgreSQL 18,story,top,1766476705,https://boringsql.com/posts/instant-database-clones/
+46363751,Carnap – A formal logic framework for Haskell,story,top,1766481462,https://carnap.io/
+46367377,Confessions to a Data Lake,story,top,1766512273,https://confer.to/blog/2025/12/confessions-to-a-data-lake/
+46334333,Debian adds LoongArch as officially supported architecture,story,top,1766216875,https://lists.debian.org/debian-devel-announce/2025/12/msg00004.html
+46364131,Font with Built-In Syntax Highlighting (2024),story,top,1766485689,https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/
+46369586,An amateur codebreaker may have just solved the Black Dahlia and Zodiac killings,story,top,1766524735,https://www.latimes.com/california/story/2025-12-23/black-dahlia-zodiac-killings-connected-one-killer-theory
+46368557,Terrence Malick's Disciples,story,top,1766518520,https://yalereview.org/article/bilge-ebiri-terrence-malick
+46364973,"Test, don't just verify",story,top,1766494610,https://alperenkeles.com/posts/test-dont-verify/
+46360856,Local AI is driving the biggest change in laptops in decades,story,top,1766448736,https://spectrum.ieee.org/ai-models-locally
+46362927,iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA,story,top,1766470941,https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/
+46376848,Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention,story,top,1766593270,https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention
+46334297,The Polyglot NixOS,story,top,1766216340,https://x86.lol/generic/2025/12/19/polyglot.html
+46364272,Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs,story,top,1766487187,https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota
+46372771,Custom Cross Compiler with Nix,story,top,1766554305,https://www.hobson.space/posts/nixcross/
+46369860,I didn't realize my LG TV was spying on me until I turned off Live Plus,story,top,1766526453,https://www.pocket-lint.com/lg-tv-turn-off-live-plus/
+46334206,Perfect Software – Software for an Audience of One,story,top,1766214893,https://outofdesk.netlify.app/blog/perfect-software
+46359120,It's Always TCP_NODELAY,story,top,1766437799,https://brooker.co.za/blog/2024/05/09/nagle.html
+46371776,Name That Part: 3D Part Segmentation and Naming,story,top,1766543085,https://name-that-part.github.io/
+46352191,Dancing around the rhythm space with Euclid,story,top,1766390926,https://pv.wtf/posts/euclidean-rhythms
+46330012,Astrophotography Target Planner: Discover Hidden Nebulas,story,top,1766173481,https://astroimagery.com/techniques/imaging/astrophotography-target-planner/
+46342412,Waymo halts service during S.F. blackout after causing traffic jams,story,top,1766293923,https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/
+46349171,LVM Thin Provisioning (2016),story,top,1766355593,https://storageapis.wordpress.com/2016/06/24/lvm-thin-provisioning/
+46366998,Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers,story,top,1766509714,https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server
+46370592,Is Northern Virginia still the least reliable AWS region?,story,top,1766531523,https://statusgator.com/blog/aws-least-reliable-region-in-2025/
+46353777,The biggest CRT ever made: Sony's PVM-4300,story,top,1766408069,https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/
+46368616,"HTTP Caching, a Refresher",story,top,1766518899,https://danburzo.ro/http-caching-refresher/
+46357675,The Illustrated Transformer,story,top,1766430956,https://jalammar.github.io/illustrated-transformer/
+46370012,Texas app store age verification law blocked by federal judge,story,top,1766527426,https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/
+46361229,Snitch – A friendlier ss/netstat,story,top,1766451837,https://github.com/karol-broda/snitch
+46352231,Debian's Git Transition,story,top,1766391872,https://diziet.dreamwidth.org/20436.html
+46352565,The ancient monuments saluting the winter solstice,story,top,1766395858,https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice
+46375926,New reactor produces clean energy and carbon nanotubes from natural gas,story,top,1766587074,https://phys.org/news/2025-12-reactor-energy-carbon-nanotubes-natural.html
+46359770,"US bars approvals of new models of DJI, all other foreign drones",story,top,1766441508,https://www.reuters.com/business/aerospace-defense/us-adds-dji-other-foreign-drones-national-security-list-2025-12-22/
+46357945,Ultrasound Cancer Treatment: Sound Waves Fight Tumors,story,top,1766432254,https://spectrum.ieee.org/ultrasound-cancer-treatment
+46357458,Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2),story,top,1766429962,https://arxiv.org/abs/2512.14693
+46317765,Interactive Fluid Typography,story,top,1766087764,https://electricmagicfactory.com/articles/interactive-fluid-typography/
+46361510,"The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]",story,top,1766454596,https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf
+46348318,More on whether useful quantum computing is “imminent”,story,top,1766350414,https://scottaaronson.blog/?p=9425
+46338339,Backing up Spotify,story,top,1766255321,https://annas-archive.li/blog/backing-up-spotify.html
+46348262,"Rue: Higher level than Rust, lower level than Go",story,top,1766349962,https://rue-lang.dev/
+46319826,History LLMs: Models trained exclusively on pre-1913 texts,story,top,1766097587,https://github.com/DGoettlich/history-llms
+46357287,GLM-4.7: Advancing the Coding Capability,story,top,1766429192,https://z.ai/blog/glm-4.7
+46367595,Amnezia – Self-Hosted VPN,story,top,1766513413,https://amnezia.org/self-hosted
+46352004,I announced my divorce on Instagram and then AI impersonated me,story,top,1766387613,https://eiratansey.com/2025/12/20/i-announced-my-divorce-on-instagram-and-then-ai-impersonated-me/
+46355949,NIST was 5 μs off UTC after last week's power cut,story,top,1766422888,https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut
+46376530,Why and how I moved from Apple + iCloud to my own server,story,top,1766591149,https://bastiangruber.ca/posts/mass-quitting-apple/
+46345205,How I protect my Forgejo instance from AI web crawlers,story,top,1766328413,https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html
+46330369,The Coffee Warehouse,story,top,1766175387,https://www.scopeofwork.net/the-coffee-warehouse/
+46325475,Webb observes exoplanet that may have an exotic helium and carbon atmosphere,story,top,1766150217,https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/
+46373559,Help my website is too small,story,top,1766564138,https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/
+46363319,10 years bootstrapped: €6.5M revenue with a team of 13,story,top,1766476203,https://www.datocms.com/blog/a-look-back-at-2025
+46335069,The post-GeForce era: What if Nvidia abandons PC gaming?,story,top,1766226338,https://www.pcworld.com/article/3013044/the-post-geforce-era-what-if-nvidia-abandons-pc-gaming.html
+46372758,PipeWire Guide,story,top,1766554195,https://github.com/mikeroyal/PipeWire-Guide
+46338480,Space Math Academy,story,top,1766256443,https://space-math.academy
+46348329,A guide to local coding models,story,top,1766350515,https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude
+46368235,LAVD: Meta's New Default Scheduler [pdf],story,top,1766516653,https://lpc.events/event/19/contributions/2099/attachments/1875/4020/lpc-2025-lavd-meta.pdf
+46350641,Build Android apps using Rust and Iced,story,top,1766369672,https://github.com/ibaryshnikov/android-iced-example
+46348207,Why did we use leaded petrol for so long? (2017),story,top,1766349600,https://www.bbc.com/news/business-40593353
+46357870,The Garbage Collection Handbook,story,top,1766431818,https://gchandbook.org/index.html
+46331292,Kernighan's Lever,story,top,1766180575,https://linusakesson.net/programming/kernighans-lever/index.php
+46342166,Measuring AI Ability to Complete Long Tasks,story,top,1766289996,https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/
+46315579,Remove Black Color with Shaders,story,top,1766078077,https://yuanchuan.dev/remove-black-color-with-shaders
+46370180,Microspeak: North Star – The Old New Thing (2015),story,top,1766528629,https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861
+46367744,An initial analysis of the discovered Unix V4 tape,story,top,1766514143,https://www.spinellis.gr/blog/20251223/?yc261223
+46376683,Domain Connect: A missing piece in the DNS toolbox,story,top,1766592081,https://blog.apnic.net/2025/12/24/domain-connect-a-missing-piece-in-the-dns-toolbox/
+46334025,"Privacy doesn't mean anything anymore, anonymity does",story,top,1766211665,https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/
+46376772,My HTML Web Component boilerplate for 2026,story,top,1766592698,https://gomakethings.com/my-html-web-component-boilerplate-for-2026/
+46338437,Programming languages used for music,story,top,1766256045,https://timthompson.com/plum/cgi/showlist.cgi?sort=name&concise=yes
+46367465,Teach your agents what you know,story,top,1766512758,https://kevins981.github.io/blogs/teachagent_part1.html
+46349808,I wish people were more public,story,top,1766360554,https://borretti.me/article/i-wish-people-were-more-public
+46316050,Deliberate Internet Shutdowns,story,top,1766080150,https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html
+46337134,Why do people leave comments on OpenBenches?,story,top,1766246897,https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/
+46354970,Scaling LLMs to Larger Codebases,story,top,1766417917,https://blog.kierangill.xyz/oversight-and-guidance
+46348455,The gift card accountability sink,story,top,1766351221,https://www.bitsaboutmoney.com/archive/gift-card-accountability-sink/
+46352930,"If you don't design your career, someone else will (2014)",story,top,1766399272,https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/
+46355165,Claude Code gets native LSP support,story,top,1766419141,https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+46366285,Stop Slopware,story,top,1766505077,https://stopslopware.net/
+46359996,Lotusbail npm package found to be harvesting WhatsApp messages and contacts,story,top,1766442945,https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages
+46345506,CO2 batteries that store grid energy take off globally,story,top,1766330856,https://spectrum.ieee.org/co2-battery-energy-storage
+46359683,Tc – Theodore Calvin's language-agnostic testing framework,story,top,1766440987,https://github.com/ahoward/tc
+46333983,Charles Proxy,story,top,1766210957,https://www.charlesproxy.com/
+46336947,"Go ahead, self-host Postgres",story,top,1766245395,https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1
+46344514,Coarse is better,story,top,1766321864,https://borretti.me/article/coarse-is-better
+46346958,"You’re not burnt out, you’re existentially starving",story,top,1766341736,https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/
+46348847,"Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",story,top,1766353580,https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/
+46342380,I doubt that anything resembling genuine AGI is within reach of current AI tools,story,top,1766293356,https://mathstodon.xyz/@tao/115722360006034040
+46337656,You have reached the end of the internet (2006),story,top,1766250606,https://hmpg.net/
+46350075,ONNX Runtime and CoreML May Silently Convert Your Model to FP16,story,top,1766363224,https://ym2132.github.io/ONNX_MLProgram_NN_exploration
+46344022,New mathematical framework reshapes debate over simulation hypothesis,story,top,1766316061,https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis
+46345444,ARIN Public Incident Report – 4.10 Misissuance Error,story,top,1766330381,https://www.arin.net/announcements/20251212/
+46368858,"Codex is a Slytherin, Claude is a Hufflepuff",story,top,1766520097,https://bits.logic.inc/p/codex-is-a-slytherin-claude-is-a
+46370584,Dronage Terminal: a terminal based drone workstation,story,top,1766531455,https://github.com/boorch/dronage-terminal
+46356320,Henge Finder,story,top,1766424738,https://hengefinder.rcdis.co/#learn
+46352405,Cartoon Network channel errors (1995 – 2025),story,top,1766394071,https://cnas.fandom.com/wiki/Channel_Errors
+46322631,Evaluating chain-of-thought monitorability,story,top,1766123373,https://openai.com/index/evaluating-chain-of-thought-monitorability/
+46331586,CSS Grid Lanes,story,top,1766182386,https://webkit.org/blog/17660/introducing-css-grid-lanes/
+46336097,Immersa: Open-source Web-based 3D Presentation Tool,story,top,1766237904,https://github.com/ertugrulcetin/immersa
+46324269,FPGAs Need a New Future,story,top,1766140173,https://www.allaboutcircuits.com/industry-articles/fpgas-need-a-new-future/
+46363948,Are We Loong Yet?,story,top,1766483699,https://areweloongyet.com/en/
+46369829,Kick Assembler Manual,story,top,1766526285,https://www.theweb.dk/KickAssembler/webhelp/content/cpt_Introduction.html
+46338365,I spent a week without IPv4 (2023),story,top,1766255483,https://www.apalrd.net/posts/2023/network_ipv6/
+46347108,"I can't upgrade to Windows 11, now leave me alone",story,top,1766342600,https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone
+46374248,Former EU commissioner and activists barred from US,story,top,1766571408,https://www.theguardian.com/technology/2025/dec/24/us-state-department-visa-ban-former-eu-commissioner-europe
+46355888,Jimmy Lai Is a Martyr for Freedom,story,top,1766422595,https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/
+46317098,"We pwned X, Vercel, Cursor, and Discord through a supply-chain attack",story,top,1766084928,https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28
+46367341,Shear-Zone Fractures Presage the Disintegration of Thwaites Eastern Ice Shelf,story,top,1766511996,https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JF008352
+46326984,Garage – An S3 object store so reliable you can run it outside datacenters,story,top,1766158803,https://garagehq.deuxfleurs.fr/
+46324078,Amazon will allow ePub and PDF downloads for DRM-free eBooks,story,top,1766138618,https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US
+46342859,Ruby website redesigned,story,top,1766300808,https://www.ruby-lang.org/en/
+46361571,Pulled 60 Minutes segment on CECOT,story,top,1766455146,https://archive.org/details/60minutes-cecotsegment
+46342447,Indoor tanning makes youthful skin much older on a genetic level,story,top,1766294502,https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level
+46342950,Inca Stone Masonry,story,top,1766301999,https://www.earthasweknowit.com/pages/inca_construction
+46326519,The FreeBSD Foundation's Laptop Support and Usability Project,story,top,1766156165,https://github.com/FreeBSDFoundation/proj-laptop
+46353261,Italian Competition Authority Fines Apple $115M for Abusing Dominant Position,story,top,1766402534,https://en.agcm.it/en/media/press-releases/2025/12/A561
+46363993,Classical billiards can compute (2d billiard systems are Turing complete),story,top,1766484300,https://arxiv.org/abs/2512.19156
+46337123,Over 40% of deceased drivers in vehicle crashes test positive for THC: Study,story,top,1766246844,https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/
+46337438,"Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",story,top,1766249148,https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html
+46370716,P2B Modification Guide,story,top,1766532414,https://tipperlinne.com/p2bmod.html
+46325486,AI Can Write Your Code. It Can't Do Your Job,story,top,1766150322,https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/
+46358538,In Pursuit of Clancy Sigal (2021),story,top,1766434872,https://yalereview.org/article/in-pursuit-of-clancy-sigal
+46346214,"Autoland saves King Air, everyone reported safe",story,top,1766336277,https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/
+46370446,Static Allocation for Compilers,story,top,1766530431,https://matklad.github.io/2025/12/23/static-allocation-compilers.html
+46331216,A better zip bomb (2019),story,top,1766180050,https://www.bamsoftware.com/hacks/zipbomb/
+46352875,A year of vibes,story,top,1766398797,https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/
+46334819,Reflections on AI at the End of 2025,story,top,1766223531,https://antirez.com/news/157
+46345125,Three ways to solve problems,story,top,1766327729,https://andreasfragner.com/writing/three-ways-to-solve-problems
+46334299,NTP at NIST Boulder Has Lost Power,story,top,1766216366,https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/
+46346391,Get an AI code review in 10 seconds,story,top,1766337665,https://oldmanrahul.com/2025/12/19/ai-code-review-trick/
+46339777,Claude in Chrome,story,top,1766265974,https://claude.com/chrome
+46342528,Isengard in Oxford,story,top,1766295737,https://lareviewofbooks.org/article/isengard-in-oxford/
+46339031,Ireland’s Diarmuid Early wins world Microsoft Excel title,story,top,1766260607,https://www.bbc.com/news/articles/cj4qzgvxxgvo
+46324543,GotaTun – Mullvad's WireGuard Implementation in Rust,story,top,1766142983,https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn
+46334483,A train-sized tunnel is now carrying electricity under South London,story,top,1766219210,https://www.ianvisits.co.uk/articles/a-train-sized-tunnel-is-now-carrying-electricity-under-south-london-86221/
+46369576,Kimwolf Exposed: The Android Botnet with 1.8M Infected Devices,story,top,1766524696,https://blog.xlab.qianxin.com/kimwolf-botnet-en/
+46327133,Believe the Checkbook,story,top,1766159490,https://robertgreiner.com/believe-the-checkbook/
+46314947,Making the most of bit arrays in Gleam,story,top,1766075842,https://gearsco.de/blog/bit-array-syntax/
+46337984,OpenSCAD is kinda neat,story,top,1766252748,https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/
+46319657,1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5,story,top,1766096589,https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5
+46362275,FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf],story,top,1766462222,https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf
+46364411,Micro QuickJS: a JavaScript engine for microcontroller,story,top,1766489067,https://github.com/bellard/mquickjs
+46316409,Firefox will have an option to disable all AI features,story,top,1766081910,https://mastodon.social/@firefoxwebdevs/115740500373677782
+46341305,Flock and Cyble Inc. weaponize “cybercrime” takedowns to silence critics,story,top,1766279551,https://haveibeenflocked.com/news/cyble-downtime
+46352286,Hybrid Aerial Underwater Drone – Bachelor Project [video],story,top,1766392654,https://www.youtube.com/watch?v=g7vmPFZrYAk
+46374413,The Ultimate Windows Utility (2022),story,top,1766573304,https://christitus.com/windows-tool/
+46339537,MIRA – An open-source persistent AI entity with memory,story,top,1766263843,https://github.com/taylorsatula/mira-OSS
+46335994,Approaching 50 Years of String Theory,story,top,1766236857,https://www.math.columbia.edu/~woit/wordpress/?p=15401
+46319946,Great ideas in theoretical computer science,story,top,1766098326,https://www.cs251.com/
+46376265,Britain Just Had Its Sunniest Year on Record,story,top,1766589209,https://e360.yale.edu/digest/u.k.-sunniest-year
+46333799,Here you can find the contents of the Unix v4 tape ready for bootstrapping,story,top,1766207852,http://squoze.net/UNIX/v4/README
+46366761,When irate product support customers demand to speak to Bill Gates,story,top,1766508183,https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896
+46372625,"LSP, Hooks, and Workflow Design: What Differentiates AI Coding Tools",story,top,1766552463,https://blog.dataengineerthings.org/lsp-hooks-and-workflow-design-what-actually-differentiates-ai-coding-tools-288711fa563b
+46321972,Qwen-Image-Layered: transparency and layer aware open diffusion model,story,top,1766114666,https://huggingface.co/papers/2512.15603
+46332526,Build Your Own React,story,top,1766189773,https://pomb.us/build-your-own-react/
+46321982,Reconstructed Commander Keen 1-3 Source Code,story,top,1766114812,https://pckf.com/viewtopic.php?t=18248
+46338016,Big GPUs don't need big PCs,story,top,1766252958,https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs
+46328274,Performance Hints,story,top,1766164482,https://abseil.io/fast/hints.html
+46357451,Things I learnt about passkeys when building passkeybot,story,top,1766429925,https://enzom.dev/b/passkeys/
+46334424,Skills Officially Comes to Codex,story,top,1766218157,https://developers.openai.com/codex/skills/
+46377093,The Future of Veritasium [video],story,top,1766594818,https://www.youtube.com/watch?v=piHGnG4LsmQ
+46321246,"Diary: Val McDermid, Deep Winter",story,top,1766107706,https://books.substack.com/p/diary-val-mcdermid-deep-winter
+46369351,Writing Good Definitions Comes Down to One Basic Rule,story,top,1766523240,https://cacm.acm.org/blogcacm/writing-good-definitions-comes-down-to-one-basic-rule/
+46334533,Airbus to migrate critical apps to a sovereign Euro cloud,story,top,1766219812,https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/
+46336213,"TailwindSQL – Like TailwindCSS, but for SQL queries in React Server components",story,top,1766238869,https://github.com/mmarinovic/tailwindsql
+46371697,U.S. Bars 5 European Tech Regulators and Researchers,story,top,1766542121,https://www.nytimes.com/2025/12/23/technology/trump-rubio-european-tech-disinformation-digital-services-act.html
+46370787,US bars 5 Europeans it says pressured tech firms to censor American viewpoints,story,top,1766532965,https://apnews.com/article/state-department-trump-immigration-rubio-visas-87c8a4692f3184e4f83fdd8ed5093886
+46316367,GPT-5.2-Codex,story,top,1766081688,https://openai.com/index/introducing-gpt-5-2-codex/
+46376321,SA-FARI: Open Video Dataset,story,top,1766589569,https://www.conservationxlabs.com/sa-fari
+46345523,E.W.Dijkstra Archive,story,top,1766330971,https://www.cs.utexas.edu/~EWD/welcome.html
+46347080,The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt,story,top,1766342386,https://mastodon.online/@mullvadnet/115742530333573065
+46328992,Reverse Engineering US Airline's PNR System and Accessing All Reservations,story,top,1766168117,https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability
+46357535,State regulators vote to keep utility profits high angering customers across CA,story,top,1766430376,https://www.latimes.com/environment/story/2025-12-18/state-regulators-vote-to-keep-utility-profits-high-angering-customers
+46345975,ELF Crimes: Program Interpreter Fun,story,top,1766334609,https://nytpu.com/gemlog/2025-12-21
+46327206,Graphite is joining Cursor,story,top,1766159821,https://cursor.com/blog/graphite
+46317174,"The Scottish Highlands, the Appalachians, Atlas are the same mountain range",story,top,1766085317,https://vividmaps.com/central-pangean-mountains/
+46371016,Americans Have Mixed Views of AI – and an Appetite for Regulation,story,top,1766534978,https://www.searchlightinstitute.org/research/americans-have-mixed-views-of-ai-and-an-appetite-for-regulation/
+46345333,Structured outputs create false confidence,story,top,1766329606,https://boundaryml.com/blog/structured-outputs-create-false-confidence
+46318852,Two kinds of vibe coding,story,top,1766092585,https://davidbau.com/archives/2025/12/16/vibe_coding.html
+46352248,Inverse Parentheses,story,top,1766392143,https://kellett.im/a/inverse-parentheses
+46377069,Older Americans quit weight loss drugs in droves,story,top,1766594638,https://www.seattletimes.com/nation-world/older-americans-quit-weight-loss-drugs-in-droves/
+46316907,How China built its ‘Manhattan Project’ to rival the West in AI chips,story,top,1766084134,https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/
+46329038,"TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy",story,top,1766168372,https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/
+46351345,Cursed circuits #3: true mathematics,story,top,1766378076,https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics
+46374564,Renault concept goes 626 miles on single charge at motorway speed,story,top,1766574840,https://www.autocar.co.uk/car-news/new-cars/renault-concept-goes-626-miles-charge-motorway-speed
+46317657,T5Gemma 2: The next generation of encoder-decoder models,story,top,1766087295,https://blog.google/technology/developers/t5gemma-2/
+46315581,There's no such thing as a fake feather [video],story,top,1766078084,https://www.youtube.com/watch?v=N5yV1Q9O6r4
+46316533,FunctionGemma 270M Model,story,top,1766082412,https://blog.google/technology/developers/functiongemma/
+46376715,"Why the best leaders help their teams to ""savor"" the world",story,top,1766592317,https://bigthink.com/business/why-the-best-leaders-help-their-teams-to-savor-the-world/
+46370234,Neuromorphic Hardware Guide,story,top,1766529009,https://open-neuromorphic.org/neuromorphic-computing/hardware/
+46321619,Noclip.website – A digital museum of video game levels,story,top,1766110808,https://noclip.website/
+46330726,LLM Year in Review,story,top,1766177360,https://karpathy.bearblog.dev/year-in-review-2025/
+46324702,8-bit Boléro,story,top,1766144334,https://linusakesson.net/music/bolero/index.php
+46369813,Lsp-CLI: CLI language client for LSP language servers,story,top,1766526207,https://github.com/valentjn/lsp-cli
+46358484,Dad's Fitness May Be Packaged and Passed Down in Sperm RNA,story,top,1766434645,https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/
+46360465,Satellites reveal heat leaking from largest US cryptocurrency mining center,story,top,1766445792,https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center
+46372739,Dutch rental fleet Mistergreen goes bankrupt after betting on Tesla self-driving,story,top,1766553996,https://guessingheadlights.com/dutch-tesla-fleet-goes-bust-after-betting-on-musks-self-driving-promises/
+46358206,Lua 5.5 Released,story,top,1766433294,https://www.lua.org/manual/5.5/readme.html#changes
+46374656,Writing HTML by hand is easier than debugging your static site generator (2024),story,top,1766575752,https://logicgrimoire.wordpress.com/2024/07/01/writing-html-by-hand-is-easier-than-debugging-your-static-site-generator/
+46360080,"Overlooked No More: Inge Lehmann, Who Discovered the Earth's Inner Core",story,top,1766443465,https://www.nytimes.com/2025/12/20/obituaries/inge-lehmann-overlooked.html
+46317546,"How to hack Discord, Vercel and more with one easy trick",story,top,1766086884,https://kibty.town/blog/mintlify/
+46350477,86Box v5.3,story,top,1766367820,https://86box.net/2025/12/21/86box-v5-3.html
+46368291,I Fixed My App Taking 5 Minutes to Start,story,top,1766516957,https://asawicki.info/news_1796_how_i_fixed_my_app_taking_5_minutes_to_start
+46322540,Getting bitten by Intel's poor naming schemes,story,top,1766122534,https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/
+46367635,"Addiction, ADHD, Discipline and Obsession",story,top,1766513564,https://olshansky.info/thoughts/2025-12-23-addiction-adhd-discipline-and-obsession
+46375422,"Chris Rea, rock and blues singer-songwriter, dies aged 74",story,top,1766583215,https://www.theguardian.com/music/2025/dec/22/chris-rea-rock-and-blues-singer-songwriter-dies-aged-7https://www.theguardian.com/music/2025/dec/22/chris-rea-rock-and-blues-singer-songwriter-dies-aged-74OcPx8jDeW7g
+46334296,Contrails Map,story,top,1766216337,https://map.contrails.org/
+46368813,iOS 26.2 lockscreen clock is slowly moving left,story,top,1766519880,https://twitter.com/ffaebi/status/2003548130936332519
+46342902,Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use,story,top,1766301379,https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/
+46327337,Exploring Speculative JIT Compilation for Emacs Lisp with Java,story,top,1766160519,https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/
+46318544,Oliver Sacks put himself into his case studies – what was the cost?,story,top,1766091158,https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost
+46377196,NASA will soon find out if the Perseverance rover can persevere on Mars,story,top,1766595511,https://arstechnica.com/space/2025/12/nasa-will-soon-find-out-if-the-perseverance-rover-can-really-persevere-on-mars/
+46372262,Manufactured Inevitability and the Need for Courage,story,top,1766548432,https://theconvivialsociety.substack.com/p/manufactured-inevitability-and-the
+46322391,Rust's Block Pattern,story,top,1766120173,https://notgull.net/block-pattern/
+46321947,"Brown/MIT shooting suspect found dead, officials say",story,top,1766114399,https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/
+46369077,Go in 9×9 is Awesome,story,top,1766521326,https://entropicthoughts.com/go-in-9x9-is-awesome
+46372859,Scrolling through Instagram Reels has same effect on brain as alcohol,story,top,1766555422,https://www.indiatoday.in/health/story/binge-watching-insta-reels-are-rewiring-your-brain-like-alcohol-addiction-2774286-2025-08-21
+46330522,The scariest boot loader code,story,top,1766176193,http://miod.online.fr/software/openbsd/stories/boot_hppa.html
+46362869,Starlog Is Prolog with Nested Predicate Calls,story,top,1766470078,https://github.com/luciangreen/prolog_to_starlog
+46362842,Frederick Douglass on the Book That Changed His Life,story,top,1766469602,https://derekbishton.com/frederick-douglass-on-the-book-that-changed-his-life/
+46352047,QBasic64 Phoenix 4.3.0 Released,story,top,1766388343,https://qb64phoenix.com/forum/showthread.php?tid=4244
+46361233,Jim Beam halts production at main distillery for a year,story,top,1766451857,https://www.bbc.com/news/articles/cy5gv5z24n2o
+46338239,Mathematicians don't care about foundations (2022),story,top,1766254548,https://matteocapucci.wordpress.com/2022/12/21/mathematicians-dont-care-about-foundations/
+46334990,What Does a Database for SSDs Look Like?,story,top,1766225613,https://brooker.co.za/blog/2025/12/15/database-for-ssd.html
+46332386,Evolution by natural induction,story,top,1766188630,https://royalsocietypublishing.org/rsfs/article/15/6/20250025/366156/Evolution-by-natural-induction
+46373168,Donald Knuth's Annual Christmas Lecture 2025 – Adventures with Knight's Tours,story,top,1766559583,https://www.youtube.com/watch?v=MKiRte-tnMY
+46373167,Arm stock tanks post Qualcomm's RISC-V acquisition of Ventana,story,top,1766559567,https://www.techradar.com/pro/arm-sheds-billions-in-market-capitalization-after-qualcomm-hints-at-risc-v-adoption-with-ventara-micro-acquisition
+46321350,SMB Direct – SMB3 over RDMA,story,top,1766108522,https://docs.kernel.org/filesystems/smb/smbdirect.html
+46315414,"Skills for organizations, partners, the ecosystem",story,top,1766077472,https://claude.com/blog/organization-skills-and-directory
+46320353,Perron: A Static Site Generator for Ruby on Rails,story,top,1766101025,https://perron-site.statichost.page/
+46368440,Keyport 717,story,top,1766517833,https://newsletter.shifthappens.site/archive/new-in-the-collection-pt-1-keyport-717/
+46374203,"Memory is running out, and so are excuses for software bloat",story,top,1766570836,https://www.theregister.com/2025/12/23/memory_software_opinion/
+46326506,Building a Transparent Keyserver,story,top,1766156090,https://words.filippo.io/keyserver-tlog/
+46355345,Your Supabase is public if you turn off RLS,story,top,1766420083,https://skilldeliver.com/your-supabase-is-public
+46345341,Reasons not to become famous (2020),story,top,1766329638,https://tim.blog/2020/02/02/reasons-to-not-become-famous/
+46345570,MSX2 core for the Tang Nano 20k,story,top,1766331354,https://github.com/RetroSilicon/MSXnano
+46373962,"Starlink satellite fails, polluting orbit with debris and falling toward Earth",story,top,1766568147,https://www.theregister.com/2025/12/23/starlink_satellite_fails_debris/
+46342195,The Texas Instruments CC-40 invades Gopherspace (plus TI-74 BASICALC),story,top,1766290316,http://oldvcr.blogspot.com/2025/12/the-texas-instruments-cc-40-invades.html
+46357881,"US blocks all offshore wind construction, says reason is classified",story,top,1766431871,https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/
+46361917,Diesel pollution particles impair lysosomal functions of iPSC-derived microglia,story,top,1766458610,https://www.sciencedirect.com/science/article/pii/S0160412025002181
+46314684,Response Healing: Reduce JSON defects by 80%+,story,top,1766074788,https://openrouter.ai/announcements/response-healing-reduce-json-defects-by-80percent
+46354326,Spotify says 'anti-copyright extremists' scraped its library,story,top,1766413391,https://musically.com/2025/12/22/spotify-says-anti-copyright-extremists-scraped-its-library/
+46360067,There Is No Future for Online Safety Without Privacy and Security,story,top,1766443402,https://itsfoss.com/news/alexander-linton-interview/
+46368263,Nature Is Laughing at the AI Build Out,story,top,1766516821,https://markmaunder.com/2025/nature-is-laughing-at-the-ai-build-out/
+46371259,US denies visas to ex-EU commissioner and others over social media rules,story,top,1766537651,https://www.bbc.co.uk/news/articles/cp39kngz008o
+46372364,Pennsylvania High Court Rules Police Can Access Google Searches Without Warrant,story,top,1766549455,https://reclaimthenet.org/pennsylvania-court-rules-no-privacy-in-google-searches
+46315547,Military standard on software control levels,story,top,1766077966,https://entropicthoughts.com/mil-std-882e-software-control
+46350391,Danish postal service to stop delivering letters,story,top,1766366715,https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society
+46357686,Doublespeak: In-Context Representation Hijacking,story,top,1766430981,https://mentaleap.ai/doublespeak/
+46374826,FCC effectively prohibits import of some new foreign drones,story,top,1766577484,https://www.heise.de/en/news/USA-FCC-effectively-prohibits-import-of-some-new-foreign-drones-11123579.html
+46333830,"The Deviancy Signal: Having ""Nothing to Hide"" Is a Threat to Us All",story,top,1766208261,https://thompson2026.com/blog/deviancy-signal/
+46341926,William Golding's Island of Savagery,story,top,1766287094,https://www.historytoday.com/archive/portrait-author-historian/william-goldings-island-savagery
+46368339,Nvidia Puts 100-Hour Monthly Limit on All GeForce Now Subscriptions,story,top,1766517199,https://www.techpowerup.com/344359/nvidia-puts-100-hour-monthly-limit-on-all-geforce-now-subscriptions
+46362214,Archivists posted the 60 minutes CECOT segment Bari Weiss killed,story,top,1766461462,https://www.404media.co/archivists-posted-the-60-minutes-cecot-segment-bari-weiss-killed/
+46355793,Spotify reportedly investigating Anna's Archive's scraping of their library,story,top,1766422222,https://www.billboard.com/business/streaming/spotify-music-library-leak-1236143970/
+46355213,Zork Z-Machine implemented on an Intel 4004 Microprocessor Vintage Computer [video],story,top,1766419470,https://www.youtube.com/watch?v=VcTQyA80Apg
+46348697,GameNative: PC Gaming on Android,story,top,1766352586,https://gamenative.app/
+46371126,Unifi Travel Router,story,top,1766536132,https://www.youtube.com/watch?v=Sja3pxedlLs
+46371015,Artist's collection of weird Google street view images gets major exhibit,story,top,1766534977,https://petapixel.com/2025/12/10/artists-collection-of-weird-google-street-view-images-gets-major-exhibit/
+46354282,One year of keeping a tada list,story,top,1766413000,https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list
+46340154,FrontierScience Benchmark by OpenAI,story,top,1766269049,https://openai.com/index/frontierscience/
+46354852,Larry Ellison provides personal guarantee for Paramount takeover of Warner Bros,story,top,1766417089,https://www.theguardian.com/business/2025/dec/22/larry-ellison-40-billion-paramount-warner-bros
+46374004,UK to ban deepfake AI 'nudification' apps,story,top,1766568508,https://www.bbc.co.uk/news/articles/cq8dp2y0z7wo
+46373991,"Ten mistakes marred firewall upgrade at telco, contributing to 2 deaths",story,top,1766568390,https://www.theregister.com/2025/12/19/optus_emergency_outages_cause_report/
+46339300,Signaling in the Age of AI: Evidence from Cover Letters,story,top,1766262208,https://arxiv.org/abs/2509.25054
+46339217,Secureblue: A security-focused desktop and server Linux operating system,story,top,1766261774,https://secureblue.dev/
+46346716,Dr. Richard Stallman to give free talk and QA at Georgia Tech Jan. 23rd 2-5pm,story,top,1766339968,https://old.reddit.com/r/gatech/comments/1prm6if/free_event_meet_dr_richard_stallman_creator_of/
+46358437,"Vince Zampella, developer of Call of Duty and Battlefield has died",story,top,1766434340,https://comicbook.com/gaming/news/vince-zampella-developer-of-call-of-duty-and-battlefield-dead-at-55/
+46367726,Urban wild bees act as 'microbial sensors' of city health,story,top,1766514029,https://www.todayinagriculture.com/article/877465580-urban-wild-bees-act-as-microbial-sensors-of-city-health
+46370702,An initial analysis of the discovered Unix V4 tape,story,top,1766532326,https://www.spinellis.gr/blog/20251223/
+46352916,N-Queens in Python Packaging,story,top,1766399125,https://github.com/jessekv/nqueens-in-python-packaging
+46360538,"FDA approves Novo Nordisk's Wegovy pill, the first and only oral GLP-1",story,top,1766446279,https://www.prnewswire.com/news-releases/fda-approves-novo-nordisks-wegovy-pill-the-first-and-only-oral-glp-1-for-weight-loss-in-adults-302648344.html
+46345293,You Can't Opt-Out of Accessibility,story,top,1766329250,https://vale.rocks/posts/accessibility-importance
+46369590,Nebula Awards Yelled at Until They Ban Use of AI by Nominees,story,top,1766524747,https://gizmodo.com/nebula-awards-yelled-at-until-they-completely-ban-use-of-ai-by-nominees-2000702137
+46363901,Gimp Source Code,story,top,1766483226,https://gitlab.gnome.org/GNOME/gimp
+46354855,GLM-4.7,story,top,1766417107,https://docs.z.ai/guides/llm/glm-4.7
+46359643,Google's healthcare AI made up a body part – what if doctors don't notice?,story,top,1766440836,https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination
+46331877,We ran Anthropic’s interviews through structured LLM analysis,story,top,1766184504,https://www.playbookatlas.com/research/ai-adoption-explorer
+46371619,The Rise of Classic Home Computers [video],story,top,1766541210,https://www.youtube.com/watch?v=G3aDPtL4_cE
+46352213,Rusty-JVM – JVM Implemented in Rust,story,top,1766391490,https://github.com/hextriclosan/rusty-jvm
+46369364,Progress on the Digital Euro,story,top,1766523374,https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html
+46347893,"Go Gray, Not Cray: Why You Should Grayscale Your Phone",story,top,1766347383,https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/
+46347751,What went wrong when I matchmade my friends,story,top,1766346701,https://chrislakin.blog/p/matchmade
+46368776,New reactor produces clean energy and carbon nanotubes from natural gas,story,top,1766519727,https://phys.org/news/2025-12-reactor-energy-carbon-nanotubes-natural.html
+46347296,WriteFreely: An open source platform for building a writing space on the web,story,top,1766343881,https://writefreely.org/
+46347280,CSRF protection without tokens or hidden form fields,story,top,1766343780,https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields
+46368451,CRISPR Turns Goldenberry into a Big Farming Opportunity,story,top,1766517927,https://scitechdaily.com/crispr-turns-a-little-known-fruit-into-a-big-farming-opportunity/
+46368372,Social media encourages the worst of AI boosterism,story,top,1766517403,https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/
+46362205,Top lawmaker asks White House to address open-source software risks,story,top,1766461365,https://www.cybersecuritydive.com/news/open-source-security-tom-cotton-letter-white-house/808379/
+46329696,You can now play Grand Theft Auto Vice City in the browser,story,top,1766171577,https://dos.zone/grand-theft-auto-vice-city/
+46333959,Data Bank – Nuforc – Latest UFO Sightings,story,top,1766210431,https://nuforc.org/databank/
+46319888,LLM-Interview-Questions-and-Answers: 100 LLM interview questions with answers,story,top,1766097975,https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub
+46364587,Trump says US will keep or sell oil seized from Venezuela,story,top,1766491035,https://www.bbc.com/news/articles/c87lnn09yj8o
+46365067,Wax Figure of Idris Elba Unlocks Face ID,story,top,1766495533,https://www.complex.com/pop-culture/a/treyalston/idris-elba-wax-figure-unlocks-face-id
+46340477,Google and Apple warn employees on visas to avoid international travel,story,top,1766271518,https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/
+46354731,The Texas Instruments CC-40 invades Gopherspace (plus TI-74 BASICALC),story,top,1766416310,http://oldvcr.blogspot.com/2025/12/the-texas-instruments-cc-40-invades.html
+46344548,Faster Practical Modular Inversion,story,top,1766322180,https://purplesyringa.moe/blog/faster-practical-modular-inversion/
+46352747,Well being in times of algorithms,story,top,1766397530,https://www.ssp.sh/blog/well-being-algorithms/
+46334562,Open Source Historical LLM trained exclusively on 19th century text,story,top,1766220271,https://github.com/haykgrigo3/TimeCapsuleLLM
+46354192,Dasharo TrustRoot Ephemeral Key Incident,story,top,1766412259,https://blog.3mdeb.com/2025/2025-12-18-eom-key-issue/
+46351277,"Acting CISA director failed a polygraph, career staff now under investigation",story,top,1766377172,https://www.politico.com/news/2025/12/21/cisa-acting-director-madhu-gottumukkala-polygraph-investigation-00701996
+46314994,Zed Moves Toward Secure-by-Default: Introducing Worktree Trust,story,top,1766076040,https://zed.dev/blog/secure-by-default
+46322732,Making Google Sans Flex,story,top,1766124602,https://design.google/library/google-sans-flex-font
+46353139,Europe gets serious about cutting digital umbilical chord with US big tech,story,top,1766401247,https://www.theregister.com/2025/12/22/europe_gets_serious_about_cutting/
+46339741,Anthropic: You can't change your Claude account email address,story,top,1766265674,https://support.claude.com/en/articles/8452276-how-do-i-change-the-email-address-associated-with-my-account
+46353569,"Minecraft, but It's a Wayland Compositor",story,top,1766405795,https://www.youtube.com/watch?v=lsBxWYDspV8
+46348367,immer – a library of persistent and immutable data structures written in C++,story,top,1766350746,https://github.com/arximboldi/immer
+46320395,Property-Based Testing Caught a Security Bug I Never Would Have Found,story,top,1766101246,https://kiro.dev/blog/property-based-testing-fixed-security-bug/
+46365744,"Memory is running out, and so are excuses for software bloat",story,top,1766501700,https://www.theregister.com/2025/12/23/memory_software_opinion/
+46353257,Tachyon: High frequency statistical sampling profiler,story,top,1766402502,https://docs.python.org/3.15/library/profiling.sampling.html
+46361330,Exposing a $10B Fraudulent Debt Relief Industry [video],story,top,1766452860,https://www.youtube.com/watch?v=hBNWInRS6hM
+46318191,"Local WYSIWYG Markdown, mockup, data model editor powered by Claude Code",story,top,1766089615,https://nimbalyst.com
